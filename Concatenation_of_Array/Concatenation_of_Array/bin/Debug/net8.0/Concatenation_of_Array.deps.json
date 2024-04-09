@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Concatenation_of_Array/1.0.0": {
+        "runtime": {
+          "Concatenation_of_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Concatenation_of_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
