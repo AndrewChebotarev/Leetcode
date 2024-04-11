@@ -1,0 +1,15 @@
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\Build_Array_from_Permutation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\Build_Array_from_Permutation.AssemblyInfoInputs.cache
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\Build_Array_from_Permutation.AssemblyInfo.cs
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\Build_Array_from_Permutation.csproj.CoreCompileInputs.cache
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\Build_Array_from_Permutation.sourcelink.json
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\bin\Debug\net8.0\Build_Array_from_Permutation.exe
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\bin\Debug\net8.0\Build_Array_from_Permutation.deps.json
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\bin\Debug\net8.0\Build_Array_from_Permutation.runtimeconfig.json
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\bin\Debug\net8.0\Build_Array_from_Permutation.dll
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\bin\Debug\net8.0\Build_Array_from_Permutation.pdb
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\Build_Array_from_Permutation.dll
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\refint\Build_Array_from_Permutation.dll
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\Build_Array_from_Permutation.pdb
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\Build_Array_from_Permutation.genruntimeconfig.cache
+E:\Programming\Leetcode\Build_Array_from_Permutation\Build_Array_from_Permutation\obj\Debug\net8.0\ref\Build_Array_from_Permutation.dll

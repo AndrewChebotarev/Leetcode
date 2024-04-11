@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Build_Array_from_Permutation/1.0.0": {
+        "runtime": {
+          "Build_Array_from_Permutation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Build_Array_from_Permutation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
