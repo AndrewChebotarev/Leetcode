@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\Score_of_a_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\Score_of_a_String.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\Score_of_a_String.AssemblyInfo.cs
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\Score_of_a_String.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\Score_of_a_String.sourcelink.json
+D:\Programming\Leetcode\Score_of_a_String\bin\Debug\net8.0\Score_of_a_String.exe
+D:\Programming\Leetcode\Score_of_a_String\bin\Debug\net8.0\Score_of_a_String.deps.json
+D:\Programming\Leetcode\Score_of_a_String\bin\Debug\net8.0\Score_of_a_String.runtimeconfig.json
+D:\Programming\Leetcode\Score_of_a_String\bin\Debug\net8.0\Score_of_a_String.dll
+D:\Programming\Leetcode\Score_of_a_String\bin\Debug\net8.0\Score_of_a_String.pdb
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\Score_of_a_String.dll
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\refint\Score_of_a_String.dll
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\Score_of_a_String.pdb
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\Score_of_a_String.genruntimeconfig.cache
+D:\Programming\Leetcode\Score_of_a_String\obj\Debug\net8.0\ref\Score_of_a_String.dll

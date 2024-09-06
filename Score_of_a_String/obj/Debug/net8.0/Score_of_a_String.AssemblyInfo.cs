@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Find_the_Maximum_Achievable_Number")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Score_of_a_String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7761b933b80451305475f008bf0c20cc08701d4b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Find_the_Maximum_Achievable_Number")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Find_the_Maximum_Achievable_Number")]
+[assembly: System.Reflection.AssemblyProductAttribute("Score_of_a_String")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Score_of_a_String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

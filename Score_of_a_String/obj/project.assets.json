@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Leetcode\\Find_the_Maximum_Achievable_Number\\Find_the_Maximum_Achievable_Number\\Find_the_Maximum_Achievable_Number.csproj",
-      "projectName": "Find_the_Maximum_Achievable_Number",
-      "projectPath": "D:\\Programming\\Leetcode\\Find_the_Maximum_Achievable_Number\\Find_the_Maximum_Achievable_Number\\Find_the_Maximum_Achievable_Number.csproj",
+      "projectUniqueName": "D:\\Programming\\Leetcode\\Score_of_a_String\\Score_of_a_String.csproj",
+      "projectName": "Score_of_a_String",
+      "projectPath": "D:\\Programming\\Leetcode\\Score_of_a_String\\Score_of_a_String.csproj",
       "packagesPath": "C:\\Users\\wre56\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Leetcode\\Find_the_Maximum_Achievable_Number\\Find_the_Maximum_Achievable_Number\\obj\\",
+      "outputPath": "D:\\Programming\\Leetcode\\Score_of_a_String\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
