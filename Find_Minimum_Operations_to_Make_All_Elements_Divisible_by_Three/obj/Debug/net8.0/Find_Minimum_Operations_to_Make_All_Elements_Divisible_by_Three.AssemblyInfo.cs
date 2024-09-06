@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Score_of_a_String")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d16374128690f7e89a2112c764c33e99c2539480")]
-[assembly: System.Reflection.AssemblyProductAttribute("Score_of_a_String")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Score_of_a_String")]
+[assembly: System.Reflection.AssemblyProductAttribute("Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

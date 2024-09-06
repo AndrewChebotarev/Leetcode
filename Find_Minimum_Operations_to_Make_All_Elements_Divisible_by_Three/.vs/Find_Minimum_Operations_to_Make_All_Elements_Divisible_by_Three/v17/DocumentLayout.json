@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46F600FB-68DC-4B7E-B872-194BD70EB466}|Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.csproj|d:\\programming\\leetcode\\find_minimum_operations_to_make_all_elements_divisible_by_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F600FB-68DC-4B7E-B872-194BD70EB466}|Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F600FB-68DC-4B7E-B872-194BD70EB466}|Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.csproj|d:\\programming\\leetcode\\find_minimum_operations_to_make_all_elements_divisible_by_three\\find_minimum_operations_to_make_all_elements_divisible_by_three.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F600FB-68DC-4B7E-B872-194BD70EB466}|Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.csproj|solutionrelative:find_minimum_operations_to_make_all_elements_divisible_by_three.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three\\Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.cs",
+              "RelativeDocumentMoniker": "Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three\\Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.cs",
+              "RelativeToolTip": "Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:10:10.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:09:30.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
