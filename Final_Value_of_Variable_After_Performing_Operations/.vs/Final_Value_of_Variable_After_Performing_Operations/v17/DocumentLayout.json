@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Final_Value_of_Variable_After_Performing_Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADF3230-6E1D-4250-AAE5-23F49D458E7F}|Final_Value_of_Variable_After_Performing_Operations.csproj|d:\\programming\\leetcode\\final_value_of_variable_after_performing_operations\\final_value_of_variable_after_performing_operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADF3230-6E1D-4250-AAE5-23F49D458E7F}|Final_Value_of_Variable_After_Performing_Operations.csproj|solutionrelative:final_value_of_variable_after_performing_operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Final_Value_of_Variable_After_Performing_Operations.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Final_Value_of_Variable_After_Performing_Operations\\Final_Value_of_Variable_After_Performing_Operations.cs",
+              "RelativeDocumentMoniker": "Final_Value_of_Variable_After_Performing_Operations.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Final_Value_of_Variable_After_Performing_Operations\\Final_Value_of_Variable_After_Performing_Operations.cs",
+              "RelativeToolTip": "Final_Value_of_Variable_After_Performing_Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:07:29.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

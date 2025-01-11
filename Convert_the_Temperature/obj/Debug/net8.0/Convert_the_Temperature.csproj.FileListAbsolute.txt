@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Convert_the_Temperature\bin\Debug\net8.0\Convert_the_Temperature.exe
+D:\Programming\Leetcode\Convert_the_Temperature\bin\Debug\net8.0\Convert_the_Temperature.deps.json
+D:\Programming\Leetcode\Convert_the_Temperature\bin\Debug\net8.0\Convert_the_Temperature.runtimeconfig.json
+D:\Programming\Leetcode\Convert_the_Temperature\bin\Debug\net8.0\Convert_the_Temperature.dll
+D:\Programming\Leetcode\Convert_the_Temperature\bin\Debug\net8.0\Convert_the_Temperature.pdb
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\Convert_the_Temperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\Convert_the_Temperature.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\Convert_the_Temperature.AssemblyInfo.cs
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\Convert_the_Temperature.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\Convert_the_Temperature.sourcelink.json
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\Convert_the_Temperature.dll
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\refint\Convert_the_Temperature.dll
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\Convert_the_Temperature.pdb
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\Convert_the_Temperature.genruntimeconfig.cache
+D:\Programming\Leetcode\Convert_the_Temperature\obj\Debug\net8.0\ref\Convert_the_Temperature.dll

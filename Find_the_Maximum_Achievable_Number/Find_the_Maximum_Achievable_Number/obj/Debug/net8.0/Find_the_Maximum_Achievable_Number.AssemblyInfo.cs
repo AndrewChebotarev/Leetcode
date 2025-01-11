@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Find_the_Maximum_Achievable_Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7761b933b80451305475f008bf0c20cc08701d4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62a33abcaf0ab2254b6e2c7c6b8b89c0df5a06e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Find_the_Maximum_Achievable_Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Find_the_Maximum_Achievable_Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
