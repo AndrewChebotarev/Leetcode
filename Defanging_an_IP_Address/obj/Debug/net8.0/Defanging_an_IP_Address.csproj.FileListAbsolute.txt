@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Defanging_an_IP_Address\bin\Debug\net8.0\Defanging_an_IP_Address.exe
+D:\Programming\Leetcode\Defanging_an_IP_Address\bin\Debug\net8.0\Defanging_an_IP_Address.deps.json
+D:\Programming\Leetcode\Defanging_an_IP_Address\bin\Debug\net8.0\Defanging_an_IP_Address.runtimeconfig.json
+D:\Programming\Leetcode\Defanging_an_IP_Address\bin\Debug\net8.0\Defanging_an_IP_Address.dll
+D:\Programming\Leetcode\Defanging_an_IP_Address\bin\Debug\net8.0\Defanging_an_IP_Address.pdb
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\Defanging_an_IP_Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\Defanging_an_IP_Address.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\Defanging_an_IP_Address.AssemblyInfo.cs
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\Defanging_an_IP_Address.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\Defanging_an_IP_Address.sourcelink.json
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\Defanging_an_IP_Address.dll
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\refint\Defanging_an_IP_Address.dll
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\Defanging_an_IP_Address.pdb
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\Defanging_an_IP_Address.genruntimeconfig.cache
+D:\Programming\Leetcode\Defanging_an_IP_Address\obj\Debug\net8.0\ref\Defanging_an_IP_Address.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defanging_an_IP_Address", "Defanging_an_IP_Address.csproj", "{F9FA5620-E4EE-4B18-9636-31B4554619CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FA5620-E4EE-4B18-9636-31B4554619CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FA5620-E4EE-4B18-9636-31B4554619CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FA5620-E4EE-4B18-9636-31B4554619CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FA5620-E4EE-4B18-9636-31B4554619CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20587659-3264-4037-8F36-7FA978618812}
+	EndGlobalSection
+EndGlobal

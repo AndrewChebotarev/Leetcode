@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Number_of_Good_Pairs\bin\Debug\net8.0\Number_of_Good_Pairs.exe
+D:\Programming\Leetcode\Number_of_Good_Pairs\bin\Debug\net8.0\Number_of_Good_Pairs.deps.json
+D:\Programming\Leetcode\Number_of_Good_Pairs\bin\Debug\net8.0\Number_of_Good_Pairs.runtimeconfig.json
+D:\Programming\Leetcode\Number_of_Good_Pairs\bin\Debug\net8.0\Number_of_Good_Pairs.dll
+D:\Programming\Leetcode\Number_of_Good_Pairs\bin\Debug\net8.0\Number_of_Good_Pairs.pdb
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\Number_of_Good_Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\Number_of_Good_Pairs.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\Number_of_Good_Pairs.AssemblyInfo.cs
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\Number_of_Good_Pairs.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\Number_of_Good_Pairs.sourcelink.json
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\Number_of_Good_Pairs.dll
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\refint\Number_of_Good_Pairs.dll
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\Number_of_Good_Pairs.pdb
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\Number_of_Good_Pairs.genruntimeconfig.cache
+D:\Programming\Leetcode\Number_of_Good_Pairs\obj\Debug\net8.0\ref\Number_of_Good_Pairs.dll
