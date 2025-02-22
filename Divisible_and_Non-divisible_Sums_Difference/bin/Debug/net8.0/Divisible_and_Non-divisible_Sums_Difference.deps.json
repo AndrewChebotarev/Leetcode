@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Divisible_and_Non-divisible_Sums_Difference/1.0.0": {
+        "runtime": {
+          "Divisible_and_Non-divisible_Sums_Difference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divisible_and_Non-divisible_Sums_Difference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

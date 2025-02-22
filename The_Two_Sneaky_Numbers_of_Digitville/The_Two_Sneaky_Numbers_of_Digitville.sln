@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Two_Sneaky_Numbers_of_Digitville", "The_Two_Sneaky_Numbers_of_Digitville.csproj", "{4DA917B0-F4F0-445B-8E31-98993CD861B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA917B0-F4F0-445B-8E31-98993CD861B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA917B0-F4F0-445B-8E31-98993CD861B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA917B0-F4F0-445B-8E31-98993CD861B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA917B0-F4F0-445B-8E31-98993CD861B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F375B62C-99C3-4CF3-88CC-062E483B0B74}
+	EndGlobalSection
+EndGlobal

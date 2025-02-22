@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Divisible_and_Non-divisible_Sums_Difference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2287969E-2BB0-42EE-83AE-EB9E9975D200}|Divisible_and_Non-divisible_Sums_Difference.csproj|d:\\programming\\leetcode\\divisible_and_non-divisible_sums_difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2287969E-2BB0-42EE-83AE-EB9E9975D200}|Divisible_and_Non-divisible_Sums_Difference.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2287969E-2BB0-42EE-83AE-EB9E9975D200}|Divisible_and_Non-divisible_Sums_Difference.csproj|d:\\programming\\leetcode\\divisible_and_non-divisible_sums_difference\\divisible_and_non-divisible_sums_difference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2287969E-2BB0-42EE-83AE-EB9E9975D200}|Divisible_and_Non-divisible_Sums_Difference.csproj|solutionrelative:divisible_and_non-divisible_sums_difference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Divisible_and_Non-divisible_Sums_Difference.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Divisible_and_Non-divisible_Sums_Difference\\Divisible_and_Non-divisible_Sums_Difference.cs",
+              "RelativeDocumentMoniker": "Divisible_and_Non-divisible_Sums_Difference.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Divisible_and_Non-divisible_Sums_Difference\\Divisible_and_Non-divisible_Sums_Difference.cs",
+              "RelativeToolTip": "Divisible_and_Non-divisible_Sums_Difference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:28:50.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Divisible_and_Non-divisible_Sums_Difference\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Divisible_and_Non-divisible_Sums_Difference\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:28:05.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
