@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shuffle_the_Array/1.0.0": {
+        "runtime": {
+          "Shuffle_the_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shuffle_the_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Jewels_and_Stones\bin\Debug\net8.0\Jewels_and_Stones.exe
+D:\Programming\Leetcode\Jewels_and_Stones\bin\Debug\net8.0\Jewels_and_Stones.deps.json
+D:\Programming\Leetcode\Jewels_and_Stones\bin\Debug\net8.0\Jewels_and_Stones.runtimeconfig.json
+D:\Programming\Leetcode\Jewels_and_Stones\bin\Debug\net8.0\Jewels_and_Stones.dll
+D:\Programming\Leetcode\Jewels_and_Stones\bin\Debug\net8.0\Jewels_and_Stones.pdb
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\Jewels_and_Stones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\Jewels_and_Stones.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\Jewels_and_Stones.AssemblyInfo.cs
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\Jewels_and_Stones.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\Jewels_and_Stones.sourcelink.json
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\Jewels_and_Stones.dll
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\refint\Jewels_and_Stones.dll
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\Jewels_and_Stones.pdb
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\Jewels_and_Stones.genruntimeconfig.cache
+D:\Programming\Leetcode\Jewels_and_Stones\obj\Debug\net8.0\ref\Jewels_and_Stones.dll
