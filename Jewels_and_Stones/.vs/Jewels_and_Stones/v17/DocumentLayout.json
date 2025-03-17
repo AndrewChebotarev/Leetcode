@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{AF8E2523-A296-43B5-BA76-88F462BD0985}|Jewels_and_Stones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF8E2523-A296-43B5-BA76-88F462BD0985}|Jewels_and_Stones.csproj|d:\\programming\\leetcode\\jewels_and_stones\\jewels_and_stones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF8E2523-A296-43B5-BA76-88F462BD0985}|Jewels_and_Stones.csproj|D:\\Programming\\Leetcode\\Jewels_and_Stones\\jewels_and_stones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8E2523-A296-43B5-BA76-88F462BD0985}|Jewels_and_Stones.csproj|solutionrelative:jewels_and_stones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Jewels_and_Stones.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T15:31:27.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T15:31:27.831Z"
             },
             {
               "$type": "Document",
