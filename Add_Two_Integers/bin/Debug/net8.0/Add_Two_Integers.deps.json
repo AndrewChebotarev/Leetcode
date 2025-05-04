@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Add_Two_Integers/1.0.0": {
+        "runtime": {
+          "Add_Two_Integers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Add_Two_Integers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

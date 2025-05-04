@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F93F18D9-3F84-449C-B97B-587EAFB8F874}|Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.csproj|d:\\programming\\leetcode\\partitioning_into_minimum_number_of_deci_binary_numbers\\partitioning_into_minimum_number_of_deci_binary_numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93F18D9-3F84-449C-B97B-587EAFB8F874}|Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.csproj|solutionrelative:partitioning_into_minimum_number_of_deci_binary_numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93F18D9-3F84-449C-B97B-587EAFB8F874}|Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.csproj|d:\\programming\\leetcode\\partitioning_into_minimum_number_of_deci_binary_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93F18D9-3F84-449C-B97B-587EAFB8F874}|Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers\\Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.cs",
+              "RelativeDocumentMoniker": "Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers\\Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.cs",
+              "RelativeToolTip": "Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:34:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:34:33.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

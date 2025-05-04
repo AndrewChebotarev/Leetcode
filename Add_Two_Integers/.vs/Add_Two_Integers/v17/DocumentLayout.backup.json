@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Add_Two_Integers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8CB03-FE8E-43D2-A961-A75F5CF098FB}|Add_Two_Integers.csproj|d:\\programming\\leetcode\\add_two_integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F8CB03-FE8E-43D2-A961-A75F5CF098FB}|Add_Two_Integers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8CB03-FE8E-43D2-A961-A75F5CF098FB}|Add_Two_Integers.csproj|d:\\programming\\leetcode\\add_two_integers\\add_two_integers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F8CB03-FE8E-43D2-A961-A75F5CF098FB}|Add_Two_Integers.csproj|solutionrelative:add_two_integers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add_Two_Integers.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Add_Two_Integers\\Add_Two_Integers.cs",
+              "RelativeDocumentMoniker": "Add_Two_Integers.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Add_Two_Integers\\Add_Two_Integers.cs",
+              "RelativeToolTip": "Add_Two_Integers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:19:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Add_Two_Integers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Add_Two_Integers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:19:23.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
