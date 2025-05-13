@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Find_The_Original_Array_of_Prefix_Xor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2FAA52-73B8-48E0-B438-66753412571A}|Find_The_Original_Array_of_Prefix_Xor.csproj|d:\\programming\\leetcode\\find_the_original_array_of_prefix_xor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2FAA52-73B8-48E0-B438-66753412571A}|Find_The_Original_Array_of_Prefix_Xor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2FAA52-73B8-48E0-B438-66753412571A}|Find_The_Original_Array_of_Prefix_Xor.csproj|d:\\programming\\leetcode\\find_the_original_array_of_prefix_xor\\find_the_original_array_of_prefix_xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2FAA52-73B8-48E0-B438-66753412571A}|Find_The_Original_Array_of_Prefix_Xor.csproj|solutionrelative:find_the_original_array_of_prefix_xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Find_The_Original_Array_of_Prefix_Xor.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Find_The_Original_Array_of_Prefix_Xor\\Find_The_Original_Array_of_Prefix_Xor.cs",
+              "RelativeDocumentMoniker": "Find_The_Original_Array_of_Prefix_Xor.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Find_The_Original_Array_of_Prefix_Xor\\Find_The_Original_Array_of_Prefix_Xor.cs",
+              "RelativeToolTip": "Find_The_Original_Array_of_Prefix_Xor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:25:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Find_The_Original_Array_of_Prefix_Xor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Find_The_Original_Array_of_Prefix_Xor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:24:33.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Design_Parking_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C2839-A30D-4CD5-8EB3-A64915A64B8B}|Design_Parking_System.csproj|d:\\programming\\leetcode\\design_parking_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2C2839-A30D-4CD5-8EB3-A64915A64B8B}|Design_Parking_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C2839-A30D-4CD5-8EB3-A64915A64B8B}|Design_Parking_System.csproj|d:\\programming\\leetcode\\design_parking_system\\parkingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2C2839-A30D-4CD5-8EB3-A64915A64B8B}|Design_Parking_System.csproj|solutionrelative:parkingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingSystem.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Design_Parking_System\\ParkingSystem.cs",
+              "RelativeDocumentMoniker": "ParkingSystem.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Design_Parking_System\\ParkingSystem.cs*",
+              "RelativeToolTip": "ParkingSystem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:55:12.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Design_Parking_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Design_Parking_System\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:53:26.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

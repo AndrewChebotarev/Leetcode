@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Find_The_Original_Array_of_Prefix_Xor/1.0.0": {
+        "runtime": {
+          "Find_The_Original_Array_of_Prefix_Xor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_The_Original_Array_of_Prefix_Xor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

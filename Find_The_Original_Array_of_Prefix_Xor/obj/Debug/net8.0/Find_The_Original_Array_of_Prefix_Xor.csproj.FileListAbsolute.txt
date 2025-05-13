@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\bin\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.exe
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\bin\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.deps.json
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\bin\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.runtimeconfig.json
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\bin\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.dll
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\bin\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.pdb
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.AssemblyInfo.cs
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.sourcelink.json
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.dll
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\refint\Find_The_Original_Array_of_Prefix_Xor.dll
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.pdb
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\Find_The_Original_Array_of_Prefix_Xor.genruntimeconfig.cache
+D:\Programming\Leetcode\Find_The_Original_Array_of_Prefix_Xor\obj\Debug\net8.0\ref\Find_The_Original_Array_of_Prefix_Xor.dll
