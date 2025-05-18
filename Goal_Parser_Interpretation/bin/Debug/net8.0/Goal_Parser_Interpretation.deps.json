@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Goal_Parser_Interpretation/1.0.0": {
+        "runtime": {
+          "Goal_Parser_Interpretation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Goal_Parser_Interpretation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

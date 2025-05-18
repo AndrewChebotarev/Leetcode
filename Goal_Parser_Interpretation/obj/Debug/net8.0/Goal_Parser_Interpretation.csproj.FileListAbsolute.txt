@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Goal_Parser_Interpretation\bin\Debug\net8.0\Goal_Parser_Interpretation.exe
+D:\Programming\Leetcode\Goal_Parser_Interpretation\bin\Debug\net8.0\Goal_Parser_Interpretation.deps.json
+D:\Programming\Leetcode\Goal_Parser_Interpretation\bin\Debug\net8.0\Goal_Parser_Interpretation.runtimeconfig.json
+D:\Programming\Leetcode\Goal_Parser_Interpretation\bin\Debug\net8.0\Goal_Parser_Interpretation.dll
+D:\Programming\Leetcode\Goal_Parser_Interpretation\bin\Debug\net8.0\Goal_Parser_Interpretation.pdb
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\Goal_Parser_Interpretation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\Goal_Parser_Interpretation.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\Goal_Parser_Interpretation.AssemblyInfo.cs
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\Goal_Parser_Interpretation.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\Goal_Parser_Interpretation.sourcelink.json
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\Goal_Parser_Interpretation.dll
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\refint\Goal_Parser_Interpretation.dll
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\Goal_Parser_Interpretation.pdb
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\Goal_Parser_Interpretation.genruntimeconfig.cache
+D:\Programming\Leetcode\Goal_Parser_Interpretation\obj\Debug\net8.0\ref\Goal_Parser_Interpretation.dll

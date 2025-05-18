@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Goal_Parser_Interpretation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA02F335-F481-4DF7-AFBA-DCCD54EE849A}|Goal_Parser_Interpretation.csproj|d:\\programming\\leetcode\\goal_parser_interpretation\\goal_parser_interpretation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02F335-F481-4DF7-AFBA-DCCD54EE849A}|Goal_Parser_Interpretation.csproj|solutionrelative:goal_parser_interpretation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA02F335-F481-4DF7-AFBA-DCCD54EE849A}|Goal_Parser_Interpretation.csproj|d:\\programming\\leetcode\\goal_parser_interpretation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02F335-F481-4DF7-AFBA-DCCD54EE849A}|Goal_Parser_Interpretation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Goal_Parser_Interpretation.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Goal_Parser_Interpretation\\Goal_Parser_Interpretation.cs",
+              "RelativeDocumentMoniker": "Goal_Parser_Interpretation.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Goal_Parser_Interpretation\\Goal_Parser_Interpretation.cs",
+              "RelativeToolTip": "Goal_Parser_Interpretation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:41:11.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Goal_Parser_Interpretation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Goal_Parser_Interpretation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:39:17.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
