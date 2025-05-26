@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Richest_Customer_Wealth\bin\Debug\net8.0\Richest_Customer_Wealth.exe
+D:\Programming\Leetcode\Richest_Customer_Wealth\bin\Debug\net8.0\Richest_Customer_Wealth.deps.json
+D:\Programming\Leetcode\Richest_Customer_Wealth\bin\Debug\net8.0\Richest_Customer_Wealth.runtimeconfig.json
+D:\Programming\Leetcode\Richest_Customer_Wealth\bin\Debug\net8.0\Richest_Customer_Wealth.dll
+D:\Programming\Leetcode\Richest_Customer_Wealth\bin\Debug\net8.0\Richest_Customer_Wealth.pdb
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\Richest_Customer_Wealth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\Richest_Customer_Wealth.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\Richest_Customer_Wealth.AssemblyInfo.cs
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\Richest_Customer_Wealth.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\Richest_Customer_Wealth.sourcelink.json
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\Richest_Customer_Wealth.dll
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\refint\Richest_Customer_Wealth.dll
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\Richest_Customer_Wealth.pdb
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\Richest_Customer_Wealth.genruntimeconfig.cache
+D:\Programming\Leetcode\Richest_Customer_Wealth\obj\Debug\net8.0\ref\Richest_Customer_Wealth.dll

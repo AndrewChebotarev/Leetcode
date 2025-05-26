@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richest_Customer_Wealth", "Richest_Customer_Wealth.csproj", "{21FA37E0-434A-4EEC-B819-F2B3437C602B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FA37E0-434A-4EEC-B819-F2B3437C602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FA37E0-434A-4EEC-B819-F2B3437C602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FA37E0-434A-4EEC-B819-F2B3437C602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FA37E0-434A-4EEC-B819-F2B3437C602B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7277B41F-EE2A-46C6-B666-02C9CB79B422}
+	EndGlobalSection
+EndGlobal
