@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Transform_Array_by_Parity\bin\Debug\net8.0\Transform_Array_by_Parity.exe
+D:\Programming\Leetcode\Transform_Array_by_Parity\bin\Debug\net8.0\Transform_Array_by_Parity.deps.json
+D:\Programming\Leetcode\Transform_Array_by_Parity\bin\Debug\net8.0\Transform_Array_by_Parity.runtimeconfig.json
+D:\Programming\Leetcode\Transform_Array_by_Parity\bin\Debug\net8.0\Transform_Array_by_Parity.dll
+D:\Programming\Leetcode\Transform_Array_by_Parity\bin\Debug\net8.0\Transform_Array_by_Parity.pdb
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\Transform_Array_by_Parity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\Transform_Array_by_Parity.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\Transform_Array_by_Parity.AssemblyInfo.cs
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\Transform_Array_by_Parity.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\Transform_Array_by_Parity.sourcelink.json
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\Transform_Array_by_Parity.dll
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\refint\Transform_Array_by_Parity.dll
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\Transform_Array_by_Parity.pdb
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\Transform_Array_by_Parity.genruntimeconfig.cache
+D:\Programming\Leetcode\Transform_Array_by_Parity\obj\Debug\net8.0\ref\Transform_Array_by_Parity.dll

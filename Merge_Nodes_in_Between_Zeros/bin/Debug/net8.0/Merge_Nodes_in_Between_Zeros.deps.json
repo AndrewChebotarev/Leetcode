@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Merge_Nodes_in_Between_Zeros/1.0.0": {
+        "runtime": {
+          "Merge_Nodes_in_Between_Zeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Merge_Nodes_in_Between_Zeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
