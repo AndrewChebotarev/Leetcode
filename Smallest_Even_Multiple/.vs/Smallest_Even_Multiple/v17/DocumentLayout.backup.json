@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Smallest_Even_Multiple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81895F15-EF44-4A6C-9D50-085234982D7D}|Smallest_Even_Multiple.csproj|d:\\programming\\leetcode\\smallest_even_multiple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81895F15-EF44-4A6C-9D50-085234982D7D}|Smallest_Even_Multiple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81895F15-EF44-4A6C-9D50-085234982D7D}|Smallest_Even_Multiple.csproj|d:\\programming\\leetcode\\smallest_even_multiple\\smallest_even_multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81895F15-EF44-4A6C-9D50-085234982D7D}|Smallest_Even_Multiple.csproj|solutionrelative:smallest_even_multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Smallest_Even_Multiple.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Smallest_Even_Multiple\\Smallest_Even_Multiple.cs",
+              "RelativeDocumentMoniker": "Smallest_Even_Multiple.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Smallest_Even_Multiple\\Smallest_Even_Multiple.cs",
+              "RelativeToolTip": "Smallest_Even_Multiple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:54:40.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Smallest_Even_Multiple\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Smallest_Even_Multiple\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:05:37.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

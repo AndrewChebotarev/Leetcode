@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Smallest_Even_Multiple\bin\Debug\net8.0\Smallest_Even_Multiple.exe
+D:\Programming\Leetcode\Smallest_Even_Multiple\bin\Debug\net8.0\Smallest_Even_Multiple.deps.json
+D:\Programming\Leetcode\Smallest_Even_Multiple\bin\Debug\net8.0\Smallest_Even_Multiple.runtimeconfig.json
+D:\Programming\Leetcode\Smallest_Even_Multiple\bin\Debug\net8.0\Smallest_Even_Multiple.dll
+D:\Programming\Leetcode\Smallest_Even_Multiple\bin\Debug\net8.0\Smallest_Even_Multiple.pdb
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\Smallest_Even_Multiple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\Smallest_Even_Multiple.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\Smallest_Even_Multiple.AssemblyInfo.cs
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\Smallest_Even_Multiple.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\Smallest_Even_Multiple.sourcelink.json
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\Smallest_Even_Multiple.dll
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\refint\Smallest_Even_Multiple.dll
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\Smallest_Even_Multiple.pdb
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\Smallest_Even_Multiple.genruntimeconfig.cache
+D:\Programming\Leetcode\Smallest_Even_Multiple\obj\Debug\net8.0\ref\Smallest_Even_Multiple.dll

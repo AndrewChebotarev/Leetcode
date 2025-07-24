@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Find_Words_Containing_Character/1.0.0": {
+        "runtime": {
+          "Find_Words_Containing_Character.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_Words_Containing_Character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

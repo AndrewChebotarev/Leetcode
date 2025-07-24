@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Find_Words_Containing_Character\bin\Debug\net8.0\Find_Words_Containing_Character.exe
+D:\Programming\Leetcode\Find_Words_Containing_Character\bin\Debug\net8.0\Find_Words_Containing_Character.deps.json
+D:\Programming\Leetcode\Find_Words_Containing_Character\bin\Debug\net8.0\Find_Words_Containing_Character.runtimeconfig.json
+D:\Programming\Leetcode\Find_Words_Containing_Character\bin\Debug\net8.0\Find_Words_Containing_Character.dll
+D:\Programming\Leetcode\Find_Words_Containing_Character\bin\Debug\net8.0\Find_Words_Containing_Character.pdb
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\Find_Words_Containing_Character.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\Find_Words_Containing_Character.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\Find_Words_Containing_Character.AssemblyInfo.cs
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\Find_Words_Containing_Character.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\Find_Words_Containing_Character.sourcelink.json
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\Find_Words_Containing_Character.dll
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\refint\Find_Words_Containing_Character.dll
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\Find_Words_Containing_Character.pdb
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\Find_Words_Containing_Character.genruntimeconfig.cache
+D:\Programming\Leetcode\Find_Words_Containing_Character\obj\Debug\net8.0\ref\Find_Words_Containing_Character.dll
