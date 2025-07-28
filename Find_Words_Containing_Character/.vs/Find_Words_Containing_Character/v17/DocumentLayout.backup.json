@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Find_Words_Containing_Character\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{07679175-44CD-4EF9-BBC5-3B6C4DBFA57A}|Find_Words_Containing_Character.csproj|d:\\programming\\leetcode\\find_words_containing_character\\find_words_containing_character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07679175-44CD-4EF9-BBC5-3B6C4DBFA57A}|Find_Words_Containing_Character.csproj|solutionrelative:find_words_containing_character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07679175-44CD-4EF9-BBC5-3B6C4DBFA57A}|Find_Words_Containing_Character.csproj|d:\\programming\\leetcode\\find_words_containing_character\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07679175-44CD-4EF9-BBC5-3B6C4DBFA57A}|Find_Words_Containing_Character.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,33 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 501,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Find_Words_Containing_Character.cs",
-              "DocumentMoniker": "D:\\Programming\\Leetcode\\Find_Words_Containing_Character\\Find_Words_Containing_Character.cs",
-              "RelativeDocumentMoniker": "Find_Words_Containing_Character.cs",
-              "ToolTip": "D:\\Programming\\Leetcode\\Find_Words_Containing_Character\\Find_Words_Containing_Character.cs",
-              "RelativeToolTip": "Find_Words_Containing_Character.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T14:19:10.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\Leetcode\\Find_Words_Containing_Character\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Programming\\Leetcode\\Find_Words_Containing_Character\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T14:17:01.197Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
