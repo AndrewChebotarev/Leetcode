@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sum_mof_Values_at_Indices_With_K_Set_Bits/1.0.0": {
+        "runtime": {
+          "Sum_mof_Values_at_Indices_With_K_Set_Bits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum_mof_Values_at_Indices_With_K_Set_Bits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

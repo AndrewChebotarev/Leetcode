@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\bin\Debug\net8.0\Reverse_Prefix_of_Word.exe
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\bin\Debug\net8.0\Reverse_Prefix_of_Word.deps.json
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\bin\Debug\net8.0\Reverse_Prefix_of_Word.runtimeconfig.json
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\bin\Debug\net8.0\Reverse_Prefix_of_Word.dll
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\bin\Debug\net8.0\Reverse_Prefix_of_Word.pdb
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\Reverse_Prefix_of_Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\Reverse_Prefix_of_Word.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\Reverse_Prefix_of_Word.AssemblyInfo.cs
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\Reverse_Prefix_of_Word.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\Reverse_Prefix_of_Word.sourcelink.json
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\Reverse_Prefix_of_Word.dll
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\refint\Reverse_Prefix_of_Word.dll
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\Reverse_Prefix_of_Word.pdb
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\Reverse_Prefix_of_Word.genruntimeconfig.cache
+D:\Programming\Leetcode\Reverse_Prefix_of_Word\obj\Debug\net8.0\ref\Reverse_Prefix_of_Word.dll

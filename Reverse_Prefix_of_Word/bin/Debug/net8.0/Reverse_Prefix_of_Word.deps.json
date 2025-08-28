@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Reverse_Prefix_of_Word/1.0.0": {
+        "runtime": {
+          "Reverse_Prefix_of_Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reverse_Prefix_of_Word/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
