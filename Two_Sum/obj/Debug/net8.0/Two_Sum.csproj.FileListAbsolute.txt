@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Two_Sum\bin\Debug\net8.0\Two_Sum.exe
+D:\Programming\Leetcode\Two_Sum\bin\Debug\net8.0\Two_Sum.deps.json
+D:\Programming\Leetcode\Two_Sum\bin\Debug\net8.0\Two_Sum.runtimeconfig.json
+D:\Programming\Leetcode\Two_Sum\bin\Debug\net8.0\Two_Sum.dll
+D:\Programming\Leetcode\Two_Sum\bin\Debug\net8.0\Two_Sum.pdb
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\Two_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\Two_Sum.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\Two_Sum.AssemblyInfo.cs
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\Two_Sum.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\Two_Sum.sourcelink.json
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\Two_Sum.dll
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\refint\Two_Sum.dll
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\Two_Sum.pdb
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\Two_Sum.genruntimeconfig.cache
+D:\Programming\Leetcode\Two_Sum\obj\Debug\net8.0\ref\Two_Sum.dll
