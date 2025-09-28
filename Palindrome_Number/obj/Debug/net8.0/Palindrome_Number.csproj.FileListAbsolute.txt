@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.exe
+D:\Programming\Leetcode\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.deps.json
+D:\Programming\Leetcode\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.runtimeconfig.json
+D:\Programming\Leetcode\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.dll
+D:\Programming\Leetcode\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.pdb
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.AssemblyInfo.cs
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.sourcelink.json
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.dll
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\refint\Palindrome_Number.dll
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.pdb
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.genruntimeconfig.cache
+D:\Programming\Leetcode\Palindrome_Number\obj\Debug\net8.0\ref\Palindrome_Number.dll
