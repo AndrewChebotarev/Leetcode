@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Plus_One\bin\Debug\net8.0\Plus_One.exe
+D:\Programming\Leetcode\Plus_One\bin\Debug\net8.0\Plus_One.deps.json
+D:\Programming\Leetcode\Plus_One\bin\Debug\net8.0\Plus_One.runtimeconfig.json
+D:\Programming\Leetcode\Plus_One\bin\Debug\net8.0\Plus_One.dll
+D:\Programming\Leetcode\Plus_One\bin\Debug\net8.0\Plus_One.pdb
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\Plus_One.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\Plus_One.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\Plus_One.AssemblyInfo.cs
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\Plus_One.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\Plus_One.sourcelink.json
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\Plus_One.dll
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\refint\Plus_One.dll
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\Plus_One.pdb
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\Plus_One.genruntimeconfig.cache
+D:\Programming\Leetcode\Plus_One\obj\Debug\net8.0\ref\Plus_One.dll

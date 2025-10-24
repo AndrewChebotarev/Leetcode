@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Return_Length_of_Arguments_Passed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11B9B10A-0B25-6E42-095A-5D24E390E050}|Return_Length_of_Arguments_Passed.esproj|d:\\programming\\leetcode\\return_length_of_arguments_passed\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{11B9B10A-0B25-6E42-095A-5D24E390E050}|Return_Length_of_Arguments_Passed.esproj|solutionrelative:app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B9B10A-0B25-6E42-095A-5D24E390E050}|Return_Length_of_Arguments_Passed.esproj|d:\\programming\\leetcode\\return_length_of_arguments_passed\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11B9B10A-0B25-6E42-095A-5D24E390E050}|Return_Length_of_Arguments_Passed.esproj|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.ts",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Return_Length_of_Arguments_Passed\\app.ts",
+              "RelativeDocumentMoniker": "app.ts",
+              "ToolTip": "D:\\Programming\\Leetcode\\Return_Length_of_Arguments_Passed\\app.ts*",
+              "RelativeToolTip": "app.ts*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-24T11:57:59.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Return_Length_of_Arguments_Passed\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "D:\\Programming\\Leetcode\\Return_Length_of_Arguments_Passed\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-24T11:57:56.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
