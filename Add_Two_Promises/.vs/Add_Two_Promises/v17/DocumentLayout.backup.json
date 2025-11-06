@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Add_Two_Promises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2120954-D6FF-AFC6-42EE-6B46896BD48A}|Add_Two_Promises.esproj|d:\\programming\\leetcode\\add_two_promises\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2120954-D6FF-AFC6-42EE-6B46896BD48A}|Add_Two_Promises.esproj|solutionrelative:app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.ts",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Add_Two_Promises\\app.ts",
+              "RelativeDocumentMoniker": "app.ts",
+              "ToolTip": "D:\\Programming\\Leetcode\\Add_Two_Promises\\app.ts*",
+              "RelativeToolTip": "app.ts*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-06T17:00:25.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

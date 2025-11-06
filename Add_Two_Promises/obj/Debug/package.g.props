@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonName Condition="$(PackageJsonName) == ''">add_two_promises</PackageJsonName>
+    <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">1.0.0</PackageJsonVersion>
+    <PackageJsonDescription Condition="$(PackageJsonDescription) == ''"></PackageJsonDescription>
+    <PackageJsonMain Condition="$(PackageJsonMain) == ''">app.js</PackageJsonMain>
+    <PackageJsonScriptsTest Condition="$(PackageJsonScriptsTest) == ''">echo "Error: no test specified" &amp;&amp; exit 1</PackageJsonScriptsTest>
+    <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">tsc --build</PackageJsonScriptsBuild>
+    <PackageJsonScriptsClean Condition="$(PackageJsonScriptsClean) == ''">tsc --build --clean</PackageJsonScriptsClean>
+    <PackageJsonKeywords Condition="$(PackageJsonKeywords) == ''">[]</PackageJsonKeywords>
+    <PackageJsonAuthor Condition="$(PackageJsonAuthor) == ''"></PackageJsonAuthor>
+    <PackageJsonLicense Condition="$(PackageJsonLicense) == ''">ISC</PackageJsonLicense>
+    <PackageJsonDependenciesAcorn Condition="$(PackageJsonDependenciesAcorn) == ''">^8.15.0</PackageJsonDependenciesAcorn>
+    <PackageJsonDependenciesAcornJsx Condition="$(PackageJsonDependenciesAcornJsx) == ''">^5.3.2</PackageJsonDependenciesAcornJsx>
+    <PackageJsonDependenciesAnsiStyles Condition="$(PackageJsonDependenciesAnsiStyles) == ''">^4.3.0</PackageJsonDependenciesAnsiStyles>
+    <PackageJsonDependenciesArgparse Condition="$(PackageJsonDependenciesArgparse) == ''">^2.0.1</PackageJsonDependenciesArgparse>
+    <PackageJsonDependenciesBalancedMatch Condition="$(PackageJsonDependenciesBalancedMatch) == ''">^1.0.2</PackageJsonDependenciesBalancedMatch>
+    <PackageJsonDependenciesBraceExpansion Condition="$(PackageJsonDependenciesBraceExpansion) == ''">^1.1.12</PackageJsonDependenciesBraceExpansion>
+    <PackageJsonDependenciesCallsites Condition="$(PackageJsonDependenciesCallsites) == ''">^3.1.0</PackageJsonDependenciesCallsites>
+    <PackageJsonDependenciesChalk Condition="$(PackageJsonDependenciesChalk) == ''">^4.1.2</PackageJsonDependenciesChalk>
+    <PackageJsonDependenciesColorConvert Condition="$(PackageJsonDependenciesColorConvert) == ''">^2.0.1</PackageJsonDependenciesColorConvert>
+    <PackageJsonDependenciesColorName Condition="$(PackageJsonDependenciesColorName) == ''">^1.1.4</PackageJsonDependenciesColorName>
+    <PackageJsonDependenciesConcatMap Condition="$(PackageJsonDependenciesConcatMap) == ''">^0.0.1</PackageJsonDependenciesConcatMap>
+    <PackageJsonDependenciesCrossSpawn Condition="$(PackageJsonDependenciesCrossSpawn) == ''">^7.0.6</PackageJsonDependenciesCrossSpawn>
+    <PackageJsonDependenciesDebug Condition="$(PackageJsonDependenciesDebug) == ''">^4.4.3</PackageJsonDependenciesDebug>
+    <PackageJsonDependenciesDeepIs Condition="$(PackageJsonDependenciesDeepIs) == ''">^0.1.4</PackageJsonDependenciesDeepIs>
+    <PackageJsonDependenciesEscapeStringRegexp Condition="$(PackageJsonDependenciesEscapeStringRegexp) == ''">^4.0.0</PackageJsonDependenciesEscapeStringRegexp>
+    <PackageJsonDependenciesEslintScope Condition="$(PackageJsonDependenciesEslintScope) == ''">^8.4.0</PackageJsonDependenciesEslintScope>
+    <PackageJsonDependenciesEslintVisitorKeys Condition="$(PackageJsonDependenciesEslintVisitorKeys) == ''">^4.2.1</PackageJsonDependenciesEslintVisitorKeys>
+    <PackageJsonDependenciesEspree Condition="$(PackageJsonDependenciesEspree) == ''">^10.4.0</PackageJsonDependenciesEspree>
+    <PackageJsonDependenciesEsquery Condition="$(PackageJsonDependenciesEsquery) == ''">^1.6.0</PackageJsonDependenciesEsquery>
+    <PackageJsonDependenciesEsrecurse Condition="$(PackageJsonDependenciesEsrecurse) == ''">^4.3.0</PackageJsonDependenciesEsrecurse>
+    <PackageJsonDependenciesEstraverse Condition="$(PackageJsonDependenciesEstraverse) == ''">^5.3.0</PackageJsonDependenciesEstraverse>
+    <PackageJsonDependenciesEsutils Condition="$(PackageJsonDependenciesEsutils) == ''">^2.0.3</PackageJsonDependenciesEsutils>
+    <PackageJsonDependenciesFastDeepEqual Condition="$(PackageJsonDependenciesFastDeepEqual) == ''">^3.1.3</PackageJsonDependenciesFastDeepEqual>
+    <PackageJsonDependenciesFastJsonStableStringify Condition="$(PackageJsonDependenciesFastJsonStableStringify) == ''">^2.1.0</PackageJsonDependenciesFastJsonStableStringify>
+    <PackageJsonDependenciesFastLevenshtein Condition="$(PackageJsonDependenciesFastLevenshtein) == ''">^2.0.6</PackageJsonDependenciesFastLevenshtein>
+    <PackageJsonDependenciesFileEntryCache Condition="$(PackageJsonDependenciesFileEntryCache) == ''">^8.0.0</PackageJsonDependenciesFileEntryCache>
+    <PackageJsonDependenciesFindUp Condition="$(PackageJsonDependenciesFindUp) == ''">^5.0.0</PackageJsonDependenciesFindUp>
+    <PackageJsonDependenciesFlatCache Condition="$(PackageJsonDependenciesFlatCache) == ''">^4.0.1</PackageJsonDependenciesFlatCache>
+    <PackageJsonDependenciesFlatted Condition="$(PackageJsonDependenciesFlatted) == ''">^3.3.3</PackageJsonDependenciesFlatted>
+    <PackageJsonDependenciesGlobParent Condition="$(PackageJsonDependenciesGlobParent) == ''">^6.0.2</PackageJsonDependenciesGlobParent>
+    <PackageJsonDependenciesGlobals Condition="$(PackageJsonDependenciesGlobals) == ''">^14.0.0</PackageJsonDependenciesGlobals>
+    <PackageJsonDependenciesHasFlag Condition="$(PackageJsonDependenciesHasFlag) == ''">^4.0.0</PackageJsonDependenciesHasFlag>
+    <PackageJsonDependenciesIgnore Condition="$(PackageJsonDependenciesIgnore) == ''">^5.3.2</PackageJsonDependenciesIgnore>
+    <PackageJsonDependenciesImportFresh Condition="$(PackageJsonDependenciesImportFresh) == ''">^3.3.1</PackageJsonDependenciesImportFresh>
+    <PackageJsonDependenciesImurmurhash Condition="$(PackageJsonDependenciesImurmurhash) == ''">^0.1.4</PackageJsonDependenciesImurmurhash>
+    <PackageJsonDependenciesIsExtglob Condition="$(PackageJsonDependenciesIsExtglob) == ''">^2.1.1</PackageJsonDependenciesIsExtglob>
+    <PackageJsonDependenciesIsGlob Condition="$(PackageJsonDependenciesIsGlob) == ''">^4.0.3</PackageJsonDependenciesIsGlob>
+    <PackageJsonDependenciesIsexe Condition="$(PackageJsonDependenciesIsexe) == ''">^2.0.0</PackageJsonDependenciesIsexe>
+    <PackageJsonDependenciesJsonBuffer Condition="$(PackageJsonDependenciesJsonBuffer) == ''">^3.0.1</PackageJsonDependenciesJsonBuffer>
+    <PackageJsonDependenciesJsonSchemaTraverse Condition="$(PackageJsonDependenciesJsonSchemaTraverse) == ''">^0.4.1</PackageJsonDependenciesJsonSchemaTraverse>
+    <PackageJsonDependenciesJsonStableStringifyWithoutJsonify Condition="$(PackageJsonDependenciesJsonStableStringifyWithoutJsonify) == ''">^1.0.1</PackageJsonDependenciesJsonStableStringifyWithoutJsonify>
+    <PackageJsonDependenciesKeyv Condition="$(PackageJsonDependenciesKeyv) == ''">^4.5.4</PackageJsonDependenciesKeyv>
+    <PackageJsonDependenciesLevn Condition="$(PackageJsonDependenciesLevn) == ''">^0.4.1</PackageJsonDependenciesLevn>
+    <PackageJsonDependenciesLocatePath Condition="$(PackageJsonDependenciesLocatePath) == ''">^6.0.0</PackageJsonDependenciesLocatePath>
+    <PackageJsonDependenciesLodashMerge Condition="$(PackageJsonDependenciesLodashMerge) == ''">^4.6.2</PackageJsonDependenciesLodashMerge>
+    <PackageJsonDependenciesMinimatch Condition="$(PackageJsonDependenciesMinimatch) == ''">^3.1.2</PackageJsonDependenciesMinimatch>
+    <PackageJsonDependenciesMs Condition="$(PackageJsonDependenciesMs) == ''">^2.1.3</PackageJsonDependenciesMs>
+    <PackageJsonDependenciesNaturalCompare Condition="$(PackageJsonDependenciesNaturalCompare) == ''">^1.4.0</PackageJsonDependenciesNaturalCompare>
+    <PackageJsonDependenciesOptionator Condition="$(PackageJsonDependenciesOptionator) == ''">^0.9.4</PackageJsonDependenciesOptionator>
+    <PackageJsonDependenciesPLimit Condition="$(PackageJsonDependenciesPLimit) == ''">^3.1.0</PackageJsonDependenciesPLimit>
+    <PackageJsonDependenciesPLocate Condition="$(PackageJsonDependenciesPLocate) == ''">^5.0.0</PackageJsonDependenciesPLocate>
+    <PackageJsonDependenciesParentModule Condition="$(PackageJsonDependenciesParentModule) == ''">^1.0.1</PackageJsonDependenciesParentModule>
+    <PackageJsonDependenciesPathExists Condition="$(PackageJsonDependenciesPathExists) == ''">^4.0.0</PackageJsonDependenciesPathExists>
+    <PackageJsonDependenciesPathKey Condition="$(PackageJsonDependenciesPathKey) == ''">^3.1.1</PackageJsonDependenciesPathKey>
+    <PackageJsonDependenciesPreludeLs Condition="$(PackageJsonDependenciesPreludeLs) == ''">^1.2.1</PackageJsonDependenciesPreludeLs>
+    <PackageJsonDependenciesPunycode Condition="$(PackageJsonDependenciesPunycode) == ''">^2.3.1</PackageJsonDependenciesPunycode>
+    <PackageJsonDependenciesResolveFrom Condition="$(PackageJsonDependenciesResolveFrom) == ''">^4.0.0</PackageJsonDependenciesResolveFrom>
+    <PackageJsonDependenciesShebangCommand Condition="$(PackageJsonDependenciesShebangCommand) == ''">^2.0.0</PackageJsonDependenciesShebangCommand>
+    <PackageJsonDependenciesShebangRegex Condition="$(PackageJsonDependenciesShebangRegex) == ''">^3.0.0</PackageJsonDependenciesShebangRegex>
+    <PackageJsonDependenciesStripJsonComments Condition="$(PackageJsonDependenciesStripJsonComments) == ''">^3.1.1</PackageJsonDependenciesStripJsonComments>
+    <PackageJsonDependenciesSupportsColor Condition="$(PackageJsonDependenciesSupportsColor) == ''">^7.2.0</PackageJsonDependenciesSupportsColor>
+    <PackageJsonDependenciesTypeCheck Condition="$(PackageJsonDependenciesTypeCheck) == ''">^0.4.0</PackageJsonDependenciesTypeCheck>
+    <PackageJsonDependenciesUndiciTypes Condition="$(PackageJsonDependenciesUndiciTypes) == ''">^7.16.0</PackageJsonDependenciesUndiciTypes>
+    <PackageJsonDependenciesUriJs Condition="$(PackageJsonDependenciesUriJs) == ''">^4.4.1</PackageJsonDependenciesUriJs>
+    <PackageJsonDependenciesWhich Condition="$(PackageJsonDependenciesWhich) == ''">^2.0.2</PackageJsonDependenciesWhich>
+    <PackageJsonDependenciesWordWrap Condition="$(PackageJsonDependenciesWordWrap) == ''">^1.2.5</PackageJsonDependenciesWordWrap>
+    <PackageJsonDependenciesYoctoQueue Condition="$(PackageJsonDependenciesYoctoQueue) == ''">^0.1.0</PackageJsonDependenciesYoctoQueue>
+    <PackageJsonDevdependenciesTypesNode Condition="$(PackageJsonDevdependenciesTypesNode) == ''">^24.10.0</PackageJsonDevdependenciesTypesNode>
+    <PackageJsonDevdependenciesEslint Condition="$(PackageJsonDevdependenciesEslint) == ''">^9.39.1</PackageJsonDevdependenciesEslint>
+    <PackageJsonDevdependenciesTypescript Condition="$(PackageJsonDevdependenciesTypescript) == ''">^5.9.3</PackageJsonDevdependenciesTypescript>
+  </PropertyGroup>
+</Project>

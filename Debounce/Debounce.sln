@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Debounce", "Debounce.esproj", "{48A3F437-BDEC-8C00-3529-93CDF9E64D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A3F437-BDEC-8C00-3529-93CDF9E64D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A3F437-BDEC-8C00-3529-93CDF9E64D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A3F437-BDEC-8C00-3529-93CDF9E64D8B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{48A3F437-BDEC-8C00-3529-93CDF9E64D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A3F437-BDEC-8C00-3529-93CDF9E64D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A3F437-BDEC-8C00-3529-93CDF9E64D8B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9D20D0-B756-432E-9EDE-89029DE40523}
+	EndGlobalSection
+EndGlobal
