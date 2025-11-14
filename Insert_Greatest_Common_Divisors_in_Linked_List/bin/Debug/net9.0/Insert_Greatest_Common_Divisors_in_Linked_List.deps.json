@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Insert_Greatest_Common_Divisors_in_Linked_List/1.0.0": {
+        "runtime": {
+          "Insert_Greatest_Common_Divisors_in_Linked_List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Insert_Greatest_Common_Divisors_in_Linked_List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
