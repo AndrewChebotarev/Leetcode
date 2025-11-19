@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Restore_Finishing_Order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346737E9-BDAD-4273-97EB-B6B77B836945}|Restore_Finishing_Order.csproj|d:\\programming\\leetcode\\restore_finishing_order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346737E9-BDAD-4273-97EB-B6B77B836945}|Restore_Finishing_Order.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346737E9-BDAD-4273-97EB-B6B77B836945}|Restore_Finishing_Order.csproj|d:\\programming\\leetcode\\restore_finishing_order\\restore_finishing_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346737E9-BDAD-4273-97EB-B6B77B836945}|Restore_Finishing_Order.csproj|solutionrelative:restore_finishing_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restore_Finishing_Order.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Restore_Finishing_Order\\Restore_Finishing_Order.cs",
+              "RelativeDocumentMoniker": "Restore_Finishing_Order.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Restore_Finishing_Order\\Restore_Finishing_Order.cs",
+              "RelativeToolTip": "Restore_Finishing_Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:49:20.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Restore_Finishing_Order\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Restore_Finishing_Order\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:48:06.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

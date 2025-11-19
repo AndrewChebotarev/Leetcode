@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Restore_Finishing_Order\bin\Debug\net9.0\Restore_Finishing_Order.exe
+D:\Programming\Leetcode\Restore_Finishing_Order\bin\Debug\net9.0\Restore_Finishing_Order.deps.json
+D:\Programming\Leetcode\Restore_Finishing_Order\bin\Debug\net9.0\Restore_Finishing_Order.runtimeconfig.json
+D:\Programming\Leetcode\Restore_Finishing_Order\bin\Debug\net9.0\Restore_Finishing_Order.dll
+D:\Programming\Leetcode\Restore_Finishing_Order\bin\Debug\net9.0\Restore_Finishing_Order.pdb
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\Restore_Finishing_Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\Restore_Finishing_Order.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\Restore_Finishing_Order.AssemblyInfo.cs
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\Restore_Finishing_Order.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\Restore_Finishing_Order.sourcelink.json
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\Restore_Finishing_Order.dll
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\refint\Restore_Finishing_Order.dll
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\Restore_Finishing_Order.pdb
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\Restore_Finishing_Order.genruntimeconfig.cache
+D:\Programming\Leetcode\Restore_Finishing_Order\obj\Debug\net9.0\ref\Restore_Finishing_Order.dll
