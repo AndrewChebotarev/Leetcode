@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Sum_of_All_Subset_XOR_Totals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C43C77D-5A2C-4F07-A9B4-4BAEB55F49EB}|Sum_of_All_Subset_XOR_Totals.csproj|d:\\programming\\leetcode\\sum_of_all_subset_xor_totals\\sum_of_all_subset_xor_totals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C43C77D-5A2C-4F07-A9B4-4BAEB55F49EB}|Sum_of_All_Subset_XOR_Totals.csproj|solutionrelative:sum_of_all_subset_xor_totals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C43C77D-5A2C-4F07-A9B4-4BAEB55F49EB}|Sum_of_All_Subset_XOR_Totals.csproj|d:\\programming\\leetcode\\sum_of_all_subset_xor_totals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C43C77D-5A2C-4F07-A9B4-4BAEB55F49EB}|Sum_of_All_Subset_XOR_Totals.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sum_of_All_Subset_XOR_Totals.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Sum_of_All_Subset_XOR_Totals\\Sum_of_All_Subset_XOR_Totals.cs",
+              "RelativeDocumentMoniker": "Sum_of_All_Subset_XOR_Totals.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Sum_of_All_Subset_XOR_Totals\\Sum_of_All_Subset_XOR_Totals.cs",
+              "RelativeToolTip": "Sum_of_All_Subset_XOR_Totals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:42:20.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Sum_of_All_Subset_XOR_Totals\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Sum_of_All_Subset_XOR_Totals\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:41:50.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

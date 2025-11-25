@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sum_of_All_Subset_XOR_Totals/1.0.0": {
+        "runtime": {
+          "Sum_of_All_Subset_XOR_Totals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum_of_All_Subset_XOR_Totals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

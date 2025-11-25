@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630BED96-0A00-4193-9859-6BF799134D6A}|Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.csproj|d:\\programming\\leetcode\\minimum_number_of_operations_to_move_all_balls_to_each_box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630BED96-0A00-4193-9859-6BF799134D6A}|Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630BED96-0A00-4193-9859-6BF799134D6A}|Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.csproj|d:\\programming\\leetcode\\minimum_number_of_operations_to_move_all_balls_to_each_box\\minimum_number_of_operations_to_move_all_balls_to_each_box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630BED96-0A00-4193-9859-6BF799134D6A}|Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.csproj|solutionrelative:minimum_number_of_operations_to_move_all_balls_to_each_box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box\\Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cs",
+              "RelativeDocumentMoniker": "Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box\\Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cs",
+              "RelativeToolTip": "Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:00:47.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:51:39.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

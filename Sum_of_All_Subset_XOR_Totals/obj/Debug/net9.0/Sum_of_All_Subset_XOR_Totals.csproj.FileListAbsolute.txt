@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\bin\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.exe
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\bin\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.deps.json
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\bin\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.runtimeconfig.json
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\bin\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.dll
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\bin\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.pdb
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.AssemblyInfo.cs
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.sourcelink.json
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.dll
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\refint\Sum_of_All_Subset_XOR_Totals.dll
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.pdb
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\Sum_of_All_Subset_XOR_Totals.genruntimeconfig.cache
+D:\Programming\Leetcode\Sum_of_All_Subset_XOR_Totals\obj\Debug\net9.0\ref\Sum_of_All_Subset_XOR_Totals.dll
