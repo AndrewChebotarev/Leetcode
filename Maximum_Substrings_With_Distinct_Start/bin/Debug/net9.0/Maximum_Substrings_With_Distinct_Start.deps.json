@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Maximum_Substrings_With_Distinct_Start/1.0.0": {
+        "runtime": {
+          "Maximum_Substrings_With_Distinct_Start.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maximum_Substrings_With_Distinct_Start/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

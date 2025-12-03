@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Maximum_Substrings_With_Distinct_Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FBC86B-C674-475F-A0E6-92A998137D63}|Maximum_Substrings_With_Distinct_Start.csproj|d:\\programming\\leetcode\\maximum_substrings_with_distinct_start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FBC86B-C674-475F-A0E6-92A998137D63}|Maximum_Substrings_With_Distinct_Start.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FBC86B-C674-475F-A0E6-92A998137D63}|Maximum_Substrings_With_Distinct_Start.csproj|d:\\programming\\leetcode\\maximum_substrings_with_distinct_start\\maximum_substrings_with_distinct_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FBC86B-C674-475F-A0E6-92A998137D63}|Maximum_Substrings_With_Distinct_Start.csproj|solutionrelative:maximum_substrings_with_distinct_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maximum_Substrings_With_Distinct_Start.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Maximum_Substrings_With_Distinct_Start\\Maximum_Substrings_With_Distinct_Start.cs",
+              "RelativeDocumentMoniker": "Maximum_Substrings_With_Distinct_Start.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Maximum_Substrings_With_Distinct_Start\\Maximum_Substrings_With_Distinct_Start.cs",
+              "RelativeToolTip": "Maximum_Substrings_With_Distinct_Start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:34:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Maximum_Substrings_With_Distinct_Start\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Maximum_Substrings_With_Distinct_Start\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:33:51.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

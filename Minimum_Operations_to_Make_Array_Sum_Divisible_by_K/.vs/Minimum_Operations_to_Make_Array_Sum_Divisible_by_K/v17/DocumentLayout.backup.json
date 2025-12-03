@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Minimum_Operations_to_Make_Array_Sum_Divisible_by_K\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB44279-3D2D-4F10-9998-1E5066EB1EEB}|Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.csproj|d:\\programming\\leetcode\\minimum_operations_to_make_array_sum_divisible_by_k\\minimum_operations_to_make_array_sum_divisible_by_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB44279-3D2D-4F10-9998-1E5066EB1EEB}|Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.csproj|solutionrelative:minimum_operations_to_make_array_sum_divisible_by_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB44279-3D2D-4F10-9998-1E5066EB1EEB}|Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.csproj|d:\\programming\\leetcode\\minimum_operations_to_make_array_sum_divisible_by_k\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB44279-3D2D-4F10-9998-1E5066EB1EEB}|Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Minimum_Operations_to_Make_Array_Sum_Divisible_by_K\\Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.cs",
+              "RelativeDocumentMoniker": "Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Minimum_Operations_to_Make_Array_Sum_Divisible_by_K\\Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.cs",
+              "RelativeToolTip": "Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:19:25.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Minimum_Operations_to_Make_Array_Sum_Divisible_by_K\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Minimum_Operations_to_Make_Array_Sum_Divisible_by_K\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:19:07.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Minimum_Operations_to_Make_Array_Sum_Divisible_by_K/1.0.0": {
+        "runtime": {
+          "Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimum_Operations_to_Make_Array_Sum_Divisible_by_K/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
