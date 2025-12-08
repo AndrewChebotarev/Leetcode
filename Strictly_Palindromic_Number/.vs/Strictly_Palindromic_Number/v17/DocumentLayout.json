@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Strictly_Palindromic_Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1842467-C1FA-49A7-9A3B-37C9AE693341}|Strictly_Palindromic_Number.csproj|d:\\programming\\leetcode\\strictly_palindromic_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1842467-C1FA-49A7-9A3B-37C9AE693341}|Strictly_Palindromic_Number.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1842467-C1FA-49A7-9A3B-37C9AE693341}|Strictly_Palindromic_Number.csproj|d:\\programming\\leetcode\\strictly_palindromic_number\\strictly_palindromic_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1842467-C1FA-49A7-9A3B-37C9AE693341}|Strictly_Palindromic_Number.csproj|solutionrelative:strictly_palindromic_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Strictly_Palindromic_Number.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Strictly_Palindromic_Number\\Strictly_Palindromic_Number.cs",
+              "RelativeDocumentMoniker": "Strictly_Palindromic_Number.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Strictly_Palindromic_Number\\Strictly_Palindromic_Number.cs",
+              "RelativeToolTip": "Strictly_Palindromic_Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:23:23.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Strictly_Palindromic_Number\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Strictly_Palindromic_Number\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:08:55.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

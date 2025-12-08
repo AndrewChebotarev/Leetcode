@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Strictly_Palindromic_Number/1.0.0": {
+        "runtime": {
+          "Strictly_Palindromic_Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strictly_Palindromic_Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
