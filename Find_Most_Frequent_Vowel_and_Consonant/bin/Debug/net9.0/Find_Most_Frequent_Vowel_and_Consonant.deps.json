@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Find_Most_Frequent_Vowel_and_Consonant/1.0.0": {
+        "runtime": {
+          "Find_Most_Frequent_Vowel_and_Consonant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_Most_Frequent_Vowel_and_Consonant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
