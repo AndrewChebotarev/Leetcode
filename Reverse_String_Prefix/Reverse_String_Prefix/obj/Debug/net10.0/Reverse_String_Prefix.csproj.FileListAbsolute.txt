@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\bin\Debug\net10.0\Reverse_String_Prefix.exe
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\bin\Debug\net10.0\Reverse_String_Prefix.deps.json
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\bin\Debug\net10.0\Reverse_String_Prefix.runtimeconfig.json
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\bin\Debug\net10.0\Reverse_String_Prefix.dll
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\bin\Debug\net10.0\Reverse_String_Prefix.pdb
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\Reverse_String_Prefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\Reverse_String_Prefix.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\Reverse_String_Prefix.AssemblyInfo.cs
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\Reverse_String_Prefix.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\Reverse_String_Prefix.sourcelink.json
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\Reverse_String_Prefix.dll
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\refint\Reverse_String_Prefix.dll
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\Reverse_String_Prefix.pdb
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\Reverse_String_Prefix.genruntimeconfig.cache
+D:\Programming\Leetcode\Reverse_String_Prefix\Reverse_String_Prefix\obj\Debug\net10.0\ref\Reverse_String_Prefix.dll

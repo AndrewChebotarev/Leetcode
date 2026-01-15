@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Compute_Alternating_Sum/1.0.0": {
+        "runtime": {
+          "Compute_Alternating_Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compute_Alternating_Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

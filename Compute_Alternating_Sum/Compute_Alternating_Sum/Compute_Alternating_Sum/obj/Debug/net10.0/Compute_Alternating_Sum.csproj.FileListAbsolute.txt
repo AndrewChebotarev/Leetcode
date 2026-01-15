@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\bin\Debug\net10.0\Compute_Alternating_Sum.exe
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\bin\Debug\net10.0\Compute_Alternating_Sum.deps.json
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\bin\Debug\net10.0\Compute_Alternating_Sum.runtimeconfig.json
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\bin\Debug\net10.0\Compute_Alternating_Sum.dll
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\bin\Debug\net10.0\Compute_Alternating_Sum.pdb
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\Compute_Alternating_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\Compute_Alternating_Sum.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\Compute_Alternating_Sum.AssemblyInfo.cs
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\Compute_Alternating_Sum.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\Compute_Alternating_Sum.sourcelink.json
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\Compute_Alternating_Sum.dll
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\refint\Compute_Alternating_Sum.dll
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\Compute_Alternating_Sum.pdb
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\Compute_Alternating_Sum.genruntimeconfig.cache
+D:\Programming\Leetcode\Compute_Alternating_Sum\Compute_Alternating_Sum\Compute_Alternating_Sum\obj\Debug\net10.0\ref\Compute_Alternating_Sum.dll
