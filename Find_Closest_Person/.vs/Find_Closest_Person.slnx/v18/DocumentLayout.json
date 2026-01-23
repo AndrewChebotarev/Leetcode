@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Find_Closest_Person\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5606720A-26E6-412D-B322-D1FFE44FE79D}|Find_Closest_Person\\Find_Closest_Person.csproj|d:\\programming\\leetcode\\find_closest_person\\find_closest_person\\find_closest_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5606720A-26E6-412D-B322-D1FFE44FE79D}|Find_Closest_Person\\Find_Closest_Person.csproj|solutionrelative:find_closest_person\\find_closest_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5606720A-26E6-412D-B322-D1FFE44FE79D}|Find_Closest_Person\\Find_Closest_Person.csproj|d:\\programming\\leetcode\\find_closest_person\\find_closest_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5606720A-26E6-412D-B322-D1FFE44FE79D}|Find_Closest_Person\\Find_Closest_Person.csproj|solutionrelative:find_closest_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find_Closest_Person.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Find_Closest_Person\\Find_Closest_Person\\Find_Closest_Person.cs",
+              "RelativeDocumentMoniker": "Find_Closest_Person\\Find_Closest_Person.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Find_Closest_Person\\Find_Closest_Person\\Find_Closest_Person.cs",
+              "RelativeToolTip": "Find_Closest_Person\\Find_Closest_Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T11:58:43.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Find_Closest_Person\\Find_Closest_Person\\Program.cs",
+              "RelativeDocumentMoniker": "Find_Closest_Person\\Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Find_Closest_Person\\Find_Closest_Person\\Program.cs",
+              "RelativeToolTip": "Find_Closest_Person\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T11:56:52.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

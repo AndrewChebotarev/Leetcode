@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Kids_With_the_Greatest_Number_of_Candies/1.0.0": {
+        "runtime": {
+          "Kids_With_the_Greatest_Number_of_Candies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kids_With_the_Greatest_Number_of_Candies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

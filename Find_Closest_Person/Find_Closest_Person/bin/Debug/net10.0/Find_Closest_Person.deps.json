@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Find_Closest_Person/1.0.0": {
+        "runtime": {
+          "Find_Closest_Person.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_Closest_Person/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

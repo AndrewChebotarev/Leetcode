@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\bin\Debug\net10.0\Find_Closest_Person.exe
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\bin\Debug\net10.0\Find_Closest_Person.deps.json
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\bin\Debug\net10.0\Find_Closest_Person.runtimeconfig.json
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\bin\Debug\net10.0\Find_Closest_Person.dll
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\bin\Debug\net10.0\Find_Closest_Person.pdb
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\Find_Closest_Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\Find_Closest_Person.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\Find_Closest_Person.AssemblyInfo.cs
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\Find_Closest_Person.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\Find_Closest_Person.sourcelink.json
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\Find_Closest_Person.dll
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\refint\Find_Closest_Person.dll
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\Find_Closest_Person.pdb
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\Find_Closest_Person.genruntimeconfig.cache
+D:\Programming\Leetcode\Find_Closest_Person\Find_Closest_Person\obj\Debug\net10.0\ref\Find_Closest_Person.dll
