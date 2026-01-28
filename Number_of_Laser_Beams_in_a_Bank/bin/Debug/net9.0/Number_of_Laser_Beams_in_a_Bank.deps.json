@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Number_of_Laser_Beams_in_a_Bank/1.0.0": {
+        "runtime": {
+          "Number_of_Laser_Beams_in_a_Bank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Number_of_Laser_Beams_in_a_Bank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
