@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Minimum_Bit_Flips_to_Convert_Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993540D4-DC3F-4066-93C1-155E1FC63D46}|Minimum_Bit_Flips_to_Convert_Number.csproj|d:\\programming\\leetcode\\minimum_bit_flips_to_convert_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993540D4-DC3F-4066-93C1-155E1FC63D46}|Minimum_Bit_Flips_to_Convert_Number.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993540D4-DC3F-4066-93C1-155E1FC63D46}|Minimum_Bit_Flips_to_Convert_Number.csproj|d:\\programming\\leetcode\\minimum_bit_flips_to_convert_number\\minimum_bit_flips_to_convert_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993540D4-DC3F-4066-93C1-155E1FC63D46}|Minimum_Bit_Flips_to_Convert_Number.csproj|solutionrelative:minimum_bit_flips_to_convert_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minimum_Bit_Flips_to_Convert_Number.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Minimum_Bit_Flips_to_Convert_Number\\Minimum_Bit_Flips_to_Convert_Number.cs",
+              "RelativeDocumentMoniker": "Minimum_Bit_Flips_to_Convert_Number.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Minimum_Bit_Flips_to_Convert_Number\\Minimum_Bit_Flips_to_Convert_Number.cs",
+              "RelativeToolTip": "Minimum_Bit_Flips_to_Convert_Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:37:26.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Minimum_Bit_Flips_to_Convert_Number\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Minimum_Bit_Flips_to_Convert_Number\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:26:47.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\bin\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.exe
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\bin\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.deps.json
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\bin\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.runtimeconfig.json
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\bin\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.dll
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\bin\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.pdb
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.AssemblyInfo.cs
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.sourcelink.json
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.dll
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\refint\Minimum_Bit_Flips_to_Convert_Number.dll
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.pdb
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\Minimum_Bit_Flips_to_Convert_Number.genruntimeconfig.cache
+D:\Programming\Leetcode\Minimum_Bit_Flips_to_Convert_Number\obj\Debug\net9.0\ref\Minimum_Bit_Flips_to_Convert_Number.dll
