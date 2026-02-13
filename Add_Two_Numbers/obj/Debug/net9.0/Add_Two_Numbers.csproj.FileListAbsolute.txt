@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Add_Two_Numbers\bin\Debug\net9.0\Add_Two_Numbers.exe
+D:\Programming\Leetcode\Add_Two_Numbers\bin\Debug\net9.0\Add_Two_Numbers.deps.json
+D:\Programming\Leetcode\Add_Two_Numbers\bin\Debug\net9.0\Add_Two_Numbers.runtimeconfig.json
+D:\Programming\Leetcode\Add_Two_Numbers\bin\Debug\net9.0\Add_Two_Numbers.dll
+D:\Programming\Leetcode\Add_Two_Numbers\bin\Debug\net9.0\Add_Two_Numbers.pdb
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\Add_Two_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\Add_Two_Numbers.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\Add_Two_Numbers.AssemblyInfo.cs
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\Add_Two_Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\Add_Two_Numbers.sourcelink.json
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\Add_Two_Numbers.dll
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\refint\Add_Two_Numbers.dll
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\Add_Two_Numbers.pdb
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\Add_Two_Numbers.genruntimeconfig.cache
+D:\Programming\Leetcode\Add_Two_Numbers\obj\Debug\net9.0\ref\Add_Two_Numbers.dll

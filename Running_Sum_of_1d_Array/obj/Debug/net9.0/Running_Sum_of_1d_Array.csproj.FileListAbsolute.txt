@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\bin\Debug\net9.0\Running_Sum_of_1d_Array.exe
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\bin\Debug\net9.0\Running_Sum_of_1d_Array.deps.json
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\bin\Debug\net9.0\Running_Sum_of_1d_Array.runtimeconfig.json
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\bin\Debug\net9.0\Running_Sum_of_1d_Array.dll
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\bin\Debug\net9.0\Running_Sum_of_1d_Array.pdb
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\Running_Sum_of_1d_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\Running_Sum_of_1d_Array.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\Running_Sum_of_1d_Array.AssemblyInfo.cs
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\Running_Sum_of_1d_Array.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\Running_Sum_of_1d_Array.sourcelink.json
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\Running_Sum_of_1d_Array.dll
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\refint\Running_Sum_of_1d_Array.dll
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\Running_Sum_of_1d_Array.pdb
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\Running_Sum_of_1d_Array.genruntimeconfig.cache
+D:\Programming\Leetcode\Running_Sum_of_1d_Array\obj\Debug\net9.0\ref\Running_Sum_of_1d_Array.dll
