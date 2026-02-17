@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Leetcode\\Sqrt(x)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBEEF65-2699-4C37-91BD-11B73FCAD98E}|Sqrt(x).csproj|d:\\programming\\leetcode\\sqrt(x)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBEEF65-2699-4C37-91BD-11B73FCAD98E}|Sqrt(x).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBEEF65-2699-4C37-91BD-11B73FCAD98E}|Sqrt(x).csproj|d:\\programming\\leetcode\\sqrt(x)\\sqrt(x).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBEEF65-2699-4C37-91BD-11B73FCAD98E}|Sqrt(x).csproj|solutionrelative:sqrt(x).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sqrt(x).cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Sqrt(x)\\Sqrt(x).cs",
+              "RelativeDocumentMoniker": "Sqrt(x).cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Sqrt(x)\\Sqrt(x).cs",
+              "RelativeToolTip": "Sqrt(x).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:10:12.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Leetcode\\Sqrt(x)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Leetcode\\Sqrt(x)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:08:02.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
