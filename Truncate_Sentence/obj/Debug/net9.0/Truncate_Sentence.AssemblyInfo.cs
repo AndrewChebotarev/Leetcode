@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Plus_One")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Truncate_Sentence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e70cf23c8c4a3ae7332310b818eed978dd7f3f")]
-[assembly: System.Reflection.AssemblyProductAttribute("Plus_One")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Plus_One")]
+[assembly: System.Reflection.AssemblyProductAttribute("Truncate_Sentence")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Truncate_Sentence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

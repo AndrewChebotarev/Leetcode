@@ -1,0 +1,15 @@
+D:\Programming\Leetcode\Truncate_Sentence\bin\Debug\net9.0\Truncate_Sentence.exe
+D:\Programming\Leetcode\Truncate_Sentence\bin\Debug\net9.0\Truncate_Sentence.deps.json
+D:\Programming\Leetcode\Truncate_Sentence\bin\Debug\net9.0\Truncate_Sentence.runtimeconfig.json
+D:\Programming\Leetcode\Truncate_Sentence\bin\Debug\net9.0\Truncate_Sentence.dll
+D:\Programming\Leetcode\Truncate_Sentence\bin\Debug\net9.0\Truncate_Sentence.pdb
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\Truncate_Sentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\Truncate_Sentence.AssemblyInfoInputs.cache
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\Truncate_Sentence.AssemblyInfo.cs
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\Truncate_Sentence.csproj.CoreCompileInputs.cache
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\Truncate_Sentence.sourcelink.json
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\Truncate_Sentence.dll
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\refint\Truncate_Sentence.dll
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\Truncate_Sentence.pdb
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\Truncate_Sentence.genruntimeconfig.cache
+D:\Programming\Leetcode\Truncate_Sentence\obj\Debug\net9.0\ref\Truncate_Sentence.dll

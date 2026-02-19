@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Leetcode\\Plus_One\\Plus_One.csproj": {}
+    "D:\\Programming\\Leetcode\\Truncate_Sentence\\Truncate_Sentence.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Leetcode\\Plus_One\\Plus_One.csproj": {
+    "D:\\Programming\\Leetcode\\Truncate_Sentence\\Truncate_Sentence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Leetcode\\Plus_One\\Plus_One.csproj",
-        "projectName": "Plus_One",
-        "projectPath": "D:\\Programming\\Leetcode\\Plus_One\\Plus_One.csproj",
+        "projectUniqueName": "D:\\Programming\\Leetcode\\Truncate_Sentence\\Truncate_Sentence.csproj",
+        "projectName": "Truncate_Sentence",
+        "projectPath": "D:\\Programming\\Leetcode\\Truncate_Sentence\\Truncate_Sentence.csproj",
         "packagesPath": "C:\\Users\\wre56\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Leetcode\\Plus_One\\obj\\",
+        "outputPath": "D:\\Programming\\Leetcode\\Truncate_Sentence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

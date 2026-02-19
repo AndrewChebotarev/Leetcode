@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Truncate_Sentence/1.0.0": {
+        "runtime": {
+          "Truncate_Sentence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Truncate_Sentence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
