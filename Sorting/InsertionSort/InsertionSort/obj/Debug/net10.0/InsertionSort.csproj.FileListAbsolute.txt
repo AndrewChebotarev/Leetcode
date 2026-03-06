@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\bin\Debug\net10.0\InsertionSort.exe
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\bin\Debug\net10.0\InsertionSort.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\bin\Debug\net10.0\InsertionSort.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\bin\Debug\net10.0\InsertionSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\bin\Debug\net10.0\InsertionSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\InsertionSort.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\InsertionSort.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\InsertionSort.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\InsertionSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\refint\InsertionSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\InsertionSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\InsertionSort.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\InsertionSort\InsertionSort\obj\Debug\net10.0\ref\InsertionSort.dll
