@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Maximum_Number_of_Words_Found_in_Sentences/1.0.0": {
+        "runtime": {
+          "Maximum_Number_of_Words_Found_in_Sentences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maximum_Number_of_Words_Found_in_Sentences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
