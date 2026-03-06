@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\bin\Debug\net10.0\BubbleSort.exe
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\bin\Debug\net10.0\BubbleSort.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\bin\Debug\net10.0\BubbleSort.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\bin\Debug\net10.0\BubbleSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\bin\Debug\net10.0\BubbleSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\BubbleSort.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\BubbleSort.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\BubbleSort.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\BubbleSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\refint\BubbleSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\BubbleSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\BubbleSort.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\BubbleSort\BubbleSort\obj\Debug\net10.0\ref\BubbleSort.dll
