@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\bin\Debug\net10.0\Majority_Element.exe
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\bin\Debug\net10.0\Majority_Element.deps.json
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\bin\Debug\net10.0\Majority_Element.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\bin\Debug\net10.0\Majority_Element.dll
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\bin\Debug\net10.0\Majority_Element.pdb
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\Majority_Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\Majority_Element.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\Majority_Element.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\Majority_Element.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\Majority_Element.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\Majority_Element.dll
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\refint\Majority_Element.dll
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\Majority_Element.pdb
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\Majority_Element.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Majority_Element\Majority_Element\obj\Debug\net10.0\ref\Majority_Element.dll
