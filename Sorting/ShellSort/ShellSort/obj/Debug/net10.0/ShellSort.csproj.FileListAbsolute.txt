@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\bin\Debug\net10.0\ShellSort.exe
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\bin\Debug\net10.0\ShellSort.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\bin\Debug\net10.0\ShellSort.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\bin\Debug\net10.0\ShellSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\bin\Debug\net10.0\ShellSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ShellSort.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ShellSort.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ShellSort.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ShellSort.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ShellSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\refint\ShellSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ShellSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ShellSort.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\ShellSort\ShellSort\obj\Debug\net10.0\ref\ShellSort.dll
