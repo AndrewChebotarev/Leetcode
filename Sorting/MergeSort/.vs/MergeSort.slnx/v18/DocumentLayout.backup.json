@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\MergeSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5E61D-D90F-4B31-8695-45B0D85620B4}|MergeSort\\MergeSort.csproj|c:\\myfiles\\programming\\leetcode\\sorting\\mergesort\\mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5E61D-D90F-4B31-8695-45B0D85620B4}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5E61D-D90F-4B31-8695-45B0D85620B4}|MergeSort\\MergeSort.csproj|c:\\myfiles\\programming\\leetcode\\sorting\\mergesort\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5E61D-D90F-4B31-8695-45B0D85620B4}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\MergeSort\\MergeSort\\MergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort\\MergeSort.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\MergeSort\\MergeSort\\MergeSort.cs*",
+              "RelativeToolTip": "MergeSort\\MergeSort.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:17:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\MergeSort\\MergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "MergeSort\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\MergeSort\\MergeSort\\Program.cs",
+              "RelativeToolTip": "MergeSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:17:35.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

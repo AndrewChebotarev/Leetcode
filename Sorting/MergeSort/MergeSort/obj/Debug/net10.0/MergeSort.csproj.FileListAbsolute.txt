@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\bin\Debug\net10.0\MergeSort.exe
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\bin\Debug\net10.0\MergeSort.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\bin\Debug\net10.0\MergeSort.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\bin\Debug\net10.0\MergeSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\bin\Debug\net10.0\MergeSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\MergeSort.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\MergeSort.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\MergeSort.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\MergeSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\refint\MergeSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\MergeSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\MergeSort.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\MergeSort\MergeSort\obj\Debug\net10.0\ref\MergeSort.dll

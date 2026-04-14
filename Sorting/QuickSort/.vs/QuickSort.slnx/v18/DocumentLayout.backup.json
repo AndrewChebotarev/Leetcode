@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\QuickSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618C96DB-9318-4FDA-8805-8015B7A6B7E3}|QuickSort\\QuickSort.csproj|c:\\myfiles\\programming\\leetcode\\sorting\\quicksort\\quicksort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618C96DB-9318-4FDA-8805-8015B7A6B7E3}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618C96DB-9318-4FDA-8805-8015B7A6B7E3}|QuickSort\\QuickSort.csproj|c:\\myfiles\\programming\\leetcode\\sorting\\quicksort\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618C96DB-9318-4FDA-8805-8015B7A6B7E3}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\QuickSort\\QuickSort\\QuickSort.cs",
+              "RelativeDocumentMoniker": "QuickSort\\QuickSort.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\QuickSort\\QuickSort\\QuickSort.cs",
+              "RelativeToolTip": "QuickSort\\QuickSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:53:50.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\QuickSort\\QuickSort\\Program.cs",
+              "RelativeDocumentMoniker": "QuickSort\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\QuickSort\\QuickSort\\Program.cs",
+              "RelativeToolTip": "QuickSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:53:03.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
