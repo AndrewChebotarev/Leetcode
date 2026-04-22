@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\Minimum_Number_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\Minimum_Number_Game.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\Minimum_Number_Game.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\Minimum_Number_Game.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\Minimum_Number_Game.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\bin\Debug\net10.0\Minimum_Number_Game.exe
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\bin\Debug\net10.0\Minimum_Number_Game.deps.json
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\bin\Debug\net10.0\Minimum_Number_Game.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\bin\Debug\net10.0\Minimum_Number_Game.dll
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\bin\Debug\net10.0\Minimum_Number_Game.pdb
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\Minimum_Number_Game.dll
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\refint\Minimum_Number_Game.dll
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\Minimum_Number_Game.pdb
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\Minimum_Number_Game.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Minimum_Number_Game\Minimum_Number_Game\obj\Debug\net10.0\ref\Minimum_Number_Game.dll
