@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\bin\Debug\net10.0\HeapSort.exe
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\bin\Debug\net10.0\HeapSort.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\bin\Debug\net10.0\HeapSort.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\bin\Debug\net10.0\HeapSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\bin\Debug\net10.0\HeapSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\HeapSort.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\HeapSort.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\HeapSort.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\HeapSort.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\HeapSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\refint\HeapSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\HeapSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\HeapSort.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\HeapSort\HeapSort\obj\Debug\net10.0\ref\HeapSort.dll

@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\bin\Debug\net10.0\Timsort.exe
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\bin\Debug\net10.0\Timsort.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\bin\Debug\net10.0\Timsort.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\bin\Debug\net10.0\Timsort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\bin\Debug\net10.0\Timsort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\Timsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\Timsort.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\Timsort.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\Timsort.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\Timsort.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\Timsort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\refint\Timsort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\Timsort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\Timsort.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\Timsort\Timsort\obj\Debug\net10.0\ref\Timsort.dll
