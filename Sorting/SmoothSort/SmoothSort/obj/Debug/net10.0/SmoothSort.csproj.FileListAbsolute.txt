@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\bin\Debug\net10.0\SmoothSort.exe
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\bin\Debug\net10.0\SmoothSort.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\bin\Debug\net10.0\SmoothSort.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\bin\Debug\net10.0\SmoothSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\bin\Debug\net10.0\SmoothSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\SmoothSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\SmoothSort.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\SmoothSort.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\SmoothSort.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\SmoothSort.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\SmoothSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\refint\SmoothSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\SmoothSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\SmoothSort.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\SmoothSort\SmoothSort\obj\Debug\net10.0\ref\SmoothSort.dll
