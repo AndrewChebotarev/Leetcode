@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\bin\Debug\net10.0\PatienceSorting.exe
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\bin\Debug\net10.0\PatienceSorting.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\bin\Debug\net10.0\PatienceSorting.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\bin\Debug\net10.0\PatienceSorting.dll
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\bin\Debug\net10.0\PatienceSorting.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\PatienceSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\PatienceSorting.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\PatienceSorting.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\PatienceSorting.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\PatienceSorting.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\PatienceSorting.dll
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\refint\PatienceSorting.dll
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\PatienceSorting.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\PatienceSorting.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\PatienceSorting\PatienceSorting\obj\Debug\net10.0\ref\PatienceSorting.dll

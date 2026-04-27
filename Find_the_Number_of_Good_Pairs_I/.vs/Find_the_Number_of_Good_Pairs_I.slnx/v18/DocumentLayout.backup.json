@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Find_the_Number_of_Good_Pairs_I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF6DF17-5BE2-45F0-B03A-338C0EC5D1F6}|Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I.csproj|c:\\myfiles\\programming\\leetcode\\find_the_number_of_good_pairs_i\\find_the_number_of_good_pairs_i\\find_the_number_of_good_pairs_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF6DF17-5BE2-45F0-B03A-338C0EC5D1F6}|Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I.csproj|solutionrelative:find_the_number_of_good_pairs_i\\find_the_number_of_good_pairs_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF6DF17-5BE2-45F0-B03A-338C0EC5D1F6}|Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I.csproj|c:\\myfiles\\programming\\leetcode\\find_the_number_of_good_pairs_i\\find_the_number_of_good_pairs_i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF6DF17-5BE2-45F0-B03A-338C0EC5D1F6}|Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I.csproj|solutionrelative:find_the_number_of_good_pairs_i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find_the_Number_of_Good_Pairs_I.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I.cs",
+              "RelativeDocumentMoniker": "Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I.cs",
+              "RelativeToolTip": "Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:31:03.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I\\Program.cs",
+              "RelativeDocumentMoniker": "Find_the_Number_of_Good_Pairs_I\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Find_the_Number_of_Good_Pairs_I\\Find_the_Number_of_Good_Pairs_I\\Program.cs",
+              "RelativeToolTip": "Find_the_Number_of_Good_Pairs_I\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:28:03.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

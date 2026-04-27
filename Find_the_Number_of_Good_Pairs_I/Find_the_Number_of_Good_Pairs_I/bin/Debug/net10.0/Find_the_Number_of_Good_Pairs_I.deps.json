@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Find_the_Number_of_Good_Pairs_I/1.0.0": {
+        "runtime": {
+          "Find_the_Number_of_Good_Pairs_I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_the_Number_of_Good_Pairs_I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

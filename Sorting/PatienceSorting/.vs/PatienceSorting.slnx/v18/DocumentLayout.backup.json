@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\PatienceSorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B2ECB8-1C46-4CA2-B58D-70EB08A171EB}|PatienceSorting\\PatienceSorting.csproj|c:\\myfiles\\programming\\leetcode\\sorting\\patiencesorting\\patiencesorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B2ECB8-1C46-4CA2-B58D-70EB08A171EB}|PatienceSorting\\PatienceSorting.csproj|solutionrelative:patiencesorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B2ECB8-1C46-4CA2-B58D-70EB08A171EB}|PatienceSorting\\PatienceSorting.csproj|c:\\myfiles\\programming\\leetcode\\sorting\\patiencesorting\\patiencesorting\\patiencesorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B2ECB8-1C46-4CA2-B58D-70EB08A171EB}|PatienceSorting\\PatienceSorting.csproj|solutionrelative:patiencesorting\\patiencesorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatienceSorting.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\PatienceSorting\\PatienceSorting\\PatienceSorting.cs",
+              "RelativeDocumentMoniker": "PatienceSorting\\PatienceSorting.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\PatienceSorting\\PatienceSorting\\PatienceSorting.cs",
+              "RelativeToolTip": "PatienceSorting\\PatienceSorting.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:58:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\PatienceSorting\\PatienceSorting\\Program.cs",
+              "RelativeDocumentMoniker": "PatienceSorting\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\PatienceSorting\\PatienceSorting\\Program.cs",
+              "RelativeToolTip": "PatienceSorting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:57:55.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
