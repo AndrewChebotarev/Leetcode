@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\BucketSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{246B609D-5EED-4200-9245-2573D5047BEC}|BucketSort\\BucketSort.csproj|c:\\myfiles\\programming\\leetcode\\sorting\\bucketsort\\bucketsort\\bucketsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B609D-5EED-4200-9245-2573D5047BEC}|BucketSort\\BucketSort.csproj|solutionrelative:bucketsort\\bucketsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246B609D-5EED-4200-9245-2573D5047BEC}|BucketSort\\BucketSort.csproj|c:\\myfiles\\programming\\leetcode\\sorting\\bucketsort\\bucketsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B609D-5EED-4200-9245-2573D5047BEC}|BucketSort\\BucketSort.csproj|solutionrelative:bucketsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BucketSort.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\BucketSort\\BucketSort\\BucketSort.cs",
+              "RelativeDocumentMoniker": "BucketSort\\BucketSort.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\BucketSort\\BucketSort\\BucketSort.cs",
+              "RelativeToolTip": "BucketSort\\BucketSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:34:59.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\BucketSort\\BucketSort\\Program.cs",
+              "RelativeDocumentMoniker": "BucketSort\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Sorting\\BucketSort\\BucketSort\\Program.cs",
+              "RelativeToolTip": "BucketSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:34:07.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
