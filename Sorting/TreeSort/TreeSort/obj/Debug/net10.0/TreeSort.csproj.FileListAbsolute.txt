@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\bin\Debug\net10.0\TreeSort.exe
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\bin\Debug\net10.0\TreeSort.deps.json
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\bin\Debug\net10.0\TreeSort.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\bin\Debug\net10.0\TreeSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\bin\Debug\net10.0\TreeSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\TreeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\TreeSort.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\TreeSort.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\TreeSort.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\TreeSort.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\TreeSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\refint\TreeSort.dll
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\TreeSort.pdb
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\TreeSort.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Sorting\TreeSort\TreeSort\obj\Debug\net10.0\ref\TreeSort.dll
