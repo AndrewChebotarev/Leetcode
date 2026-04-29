@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Decompress_Run-Length_Encoded_List/1.0.0": {
+        "runtime": {
+          "Decompress_Run-Length_Encoded_List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decompress_Run-Length_Encoded_List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

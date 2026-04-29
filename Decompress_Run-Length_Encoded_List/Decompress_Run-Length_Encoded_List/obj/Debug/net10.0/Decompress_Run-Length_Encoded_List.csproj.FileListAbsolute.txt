@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\bin\Debug\net10.0\Decompress_Run-Length_Encoded_List.exe
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\bin\Debug\net10.0\Decompress_Run-Length_Encoded_List.deps.json
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\bin\Debug\net10.0\Decompress_Run-Length_Encoded_List.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\bin\Debug\net10.0\Decompress_Run-Length_Encoded_List.dll
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\bin\Debug\net10.0\Decompress_Run-Length_Encoded_List.pdb
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\Decompress_Run-Length_Encoded_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\Decompress_Run-Length_Encoded_List.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\Decompress_Run-Length_Encoded_List.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\Decompress_Run-Length_Encoded_List.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\Decompress_Run-Length_Encoded_List.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\Decompress_Run-Length_Encoded_List.dll
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\refint\Decompress_Run-Length_Encoded_List.dll
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\Decompress_Run-Length_Encoded_List.pdb
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\Decompress_Run-Length_Encoded_List.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Decompress_Run-Length_Encoded_List\Decompress_Run-Length_Encoded_List\obj\Debug\net10.0\ref\Decompress_Run-Length_Encoded_List.dll
