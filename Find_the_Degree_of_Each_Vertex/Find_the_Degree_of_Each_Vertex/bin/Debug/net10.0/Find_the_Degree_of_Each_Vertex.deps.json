@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Find_the_Degree_of_Each_Vertex/1.0.0": {
+        "runtime": {
+          "Find_the_Degree_of_Each_Vertex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_the_Degree_of_Each_Vertex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
