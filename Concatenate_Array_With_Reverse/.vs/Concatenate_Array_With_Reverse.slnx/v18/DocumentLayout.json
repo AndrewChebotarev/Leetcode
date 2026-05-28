@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Concatenate_Array_With_Reverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54484A03-2E82-4AAE-A7B1-9FB81378AA5D}|Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse.csproj|c:\\myfiles\\programming\\leetcode\\concatenate_array_with_reverse\\concatenate_array_with_reverse\\concatenate_array_with_reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54484A03-2E82-4AAE-A7B1-9FB81378AA5D}|Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse.csproj|solutionrelative:concatenate_array_with_reverse\\concatenate_array_with_reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54484A03-2E82-4AAE-A7B1-9FB81378AA5D}|Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse.csproj|c:\\myfiles\\programming\\leetcode\\concatenate_array_with_reverse\\concatenate_array_with_reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54484A03-2E82-4AAE-A7B1-9FB81378AA5D}|Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse.csproj|solutionrelative:concatenate_array_with_reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Concatenate_Array_With_Reverse.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse.cs",
+              "RelativeDocumentMoniker": "Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse.cs",
+              "RelativeToolTip": "Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:55:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse\\Program.cs",
+              "RelativeDocumentMoniker": "Concatenate_Array_With_Reverse\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Concatenate_Array_With_Reverse\\Concatenate_Array_With_Reverse\\Program.cs",
+              "RelativeToolTip": "Concatenate_Array_With_Reverse\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:54:34.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
