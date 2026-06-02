@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\bin\Debug\net10.0\Digit_Frequency_Score.exe
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\bin\Debug\net10.0\Digit_Frequency_Score.deps.json
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\bin\Debug\net10.0\Digit_Frequency_Score.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\bin\Debug\net10.0\Digit_Frequency_Score.dll
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\bin\Debug\net10.0\Digit_Frequency_Score.pdb
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\Digit_Frequency_Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\Digit_Frequency_Score.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\Digit_Frequency_Score.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\Digit_Frequency_Score.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\Digit_Frequency_Score.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\Digit_Frequency_Score.dll
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\refint\Digit_Frequency_Score.dll
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\Digit_Frequency_Score.pdb
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\Digit_Frequency_Score.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Digit_Frequency_Score\Digit_Frequency_Score\obj\Debug\net10.0\ref\Digit_Frequency_Score.dll

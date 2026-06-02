@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Digit_Frequency_Score\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20CE3B0C-571E-43E1-AF08-488D64ACB2F9}|Digit_Frequency_Score\\Digit_Frequency_Score.csproj|c:\\myfiles\\programming\\leetcode\\digit_frequency_score\\digit_frequency_score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CE3B0C-571E-43E1-AF08-488D64ACB2F9}|Digit_Frequency_Score\\Digit_Frequency_Score.csproj|solutionrelative:digit_frequency_score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CE3B0C-571E-43E1-AF08-488D64ACB2F9}|Digit_Frequency_Score\\Digit_Frequency_Score.csproj|c:\\myfiles\\programming\\leetcode\\digit_frequency_score\\digit_frequency_score\\digit_frequency_score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CE3B0C-571E-43E1-AF08-488D64ACB2F9}|Digit_Frequency_Score\\Digit_Frequency_Score.csproj|solutionrelative:digit_frequency_score\\digit_frequency_score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Digit_Frequency_Score.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Digit_Frequency_Score\\Digit_Frequency_Score\\Digit_Frequency_Score.cs",
+              "RelativeDocumentMoniker": "Digit_Frequency_Score\\Digit_Frequency_Score.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Digit_Frequency_Score\\Digit_Frequency_Score\\Digit_Frequency_Score.cs",
+              "RelativeToolTip": "Digit_Frequency_Score\\Digit_Frequency_Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:56:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Digit_Frequency_Score\\Digit_Frequency_Score\\Program.cs",
+              "RelativeDocumentMoniker": "Digit_Frequency_Score\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Digit_Frequency_Score\\Digit_Frequency_Score\\Program.cs",
+              "RelativeToolTip": "Digit_Frequency_Score\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:55:51.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

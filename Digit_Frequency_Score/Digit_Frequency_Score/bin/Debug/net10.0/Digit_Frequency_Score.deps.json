@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Digit_Frequency_Score/1.0.0": {
+        "runtime": {
+          "Digit_Frequency_Score.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Digit_Frequency_Score/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
