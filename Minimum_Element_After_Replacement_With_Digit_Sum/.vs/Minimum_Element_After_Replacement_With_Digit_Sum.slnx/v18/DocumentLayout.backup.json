@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Minimum_Element_After_Replacement_With_Digit_Sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09AFC616-10F2-492A-BB09-3FE09D2DEA56}|Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum.csproj|c:\\myfiles\\programming\\leetcode\\minimum_element_after_replacement_with_digit_sum\\minimum_element_after_replacement_with_digit_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AFC616-10F2-492A-BB09-3FE09D2DEA56}|Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum.csproj|solutionrelative:minimum_element_after_replacement_with_digit_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AFC616-10F2-492A-BB09-3FE09D2DEA56}|Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum.csproj|c:\\myfiles\\programming\\leetcode\\minimum_element_after_replacement_with_digit_sum\\minimum_element_after_replacement_with_digit_sum\\minimum_element_after_replacement_with_digit_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AFC616-10F2-492A-BB09-3FE09D2DEA56}|Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum.csproj|solutionrelative:minimum_element_after_replacement_with_digit_sum\\minimum_element_after_replacement_with_digit_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minimum_Element_After_Replacement_With_Digit_Sum.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum.cs",
+              "RelativeDocumentMoniker": "Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum.cs",
+              "RelativeToolTip": "Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:00:03.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum\\Program.cs",
+              "RelativeDocumentMoniker": "Minimum_Element_After_Replacement_With_Digit_Sum\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Minimum_Element_After_Replacement_With_Digit_Sum\\Minimum_Element_After_Replacement_With_Digit_Sum\\Program.cs",
+              "RelativeToolTip": "Minimum_Element_After_Replacement_With_Digit_Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:59:32.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
