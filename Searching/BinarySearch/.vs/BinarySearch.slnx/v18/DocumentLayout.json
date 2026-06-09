@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\BinarySearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EAA027-0DEC-4E7F-9200-B63B6A9F8915}|BinarySearch\\BinarySearch.csproj|c:\\myfiles\\programming\\leetcode\\searching\\binarysearch\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EAA027-0DEC-4E7F-9200-B63B6A9F8915}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EAA027-0DEC-4E7F-9200-B63B6A9F8915}|BinarySearch\\BinarySearch.csproj|c:\\myfiles\\programming\\leetcode\\searching\\binarysearch\\binarysearch\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EAA027-0DEC-4E7F-9200-B63B6A9F8915}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\BinarySearch\\BinarySearch\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\BinarySearch.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\BinarySearch\\BinarySearch\\BinarySearch.cs",
+              "RelativeToolTip": "BinarySearch\\BinarySearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:27:21.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\BinarySearch\\BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\BinarySearch\\BinarySearch\\Program.cs",
+              "RelativeToolTip": "BinarySearch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:26:52.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\bin\Debug\net10.0\BinarySearch.exe
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\bin\Debug\net10.0\BinarySearch.deps.json
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\bin\Debug\net10.0\BinarySearch.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\bin\Debug\net10.0\BinarySearch.dll
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\bin\Debug\net10.0\BinarySearch.pdb
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.dll
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\refint\BinarySearch.dll
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.pdb
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Searching\BinarySearch\BinarySearch\obj\Debug\net10.0\ref\BinarySearch.dll
