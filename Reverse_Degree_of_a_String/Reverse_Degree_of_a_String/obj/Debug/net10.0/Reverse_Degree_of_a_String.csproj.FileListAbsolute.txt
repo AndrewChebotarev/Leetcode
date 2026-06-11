@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\bin\Debug\net10.0\Reverse_Degree_of_a_String.exe
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\bin\Debug\net10.0\Reverse_Degree_of_a_String.deps.json
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\bin\Debug\net10.0\Reverse_Degree_of_a_String.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\bin\Debug\net10.0\Reverse_Degree_of_a_String.dll
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\bin\Debug\net10.0\Reverse_Degree_of_a_String.pdb
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\Reverse_Degree_of_a_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\Reverse_Degree_of_a_String.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\Reverse_Degree_of_a_String.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\Reverse_Degree_of_a_String.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\Reverse_Degree_of_a_String.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\Reverse_Degree_of_a_String.dll
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\refint\Reverse_Degree_of_a_String.dll
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\Reverse_Degree_of_a_String.pdb
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\Reverse_Degree_of_a_String.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Reverse_Degree_of_a_String\Reverse_Degree_of_a_String\obj\Debug\net10.0\ref\Reverse_Degree_of_a_String.dll
