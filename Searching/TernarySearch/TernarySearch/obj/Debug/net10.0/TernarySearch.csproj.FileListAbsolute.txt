@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\bin\Debug\net10.0\TernarySearch.exe
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\bin\Debug\net10.0\TernarySearch.deps.json
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\bin\Debug\net10.0\TernarySearch.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\bin\Debug\net10.0\TernarySearch.dll
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\bin\Debug\net10.0\TernarySearch.pdb
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\TernarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\TernarySearch.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\TernarySearch.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\TernarySearch.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\TernarySearch.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\TernarySearch.dll
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\refint\TernarySearch.dll
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\TernarySearch.pdb
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\TernarySearch.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Searching\TernarySearch\TernarySearch\obj\Debug\net10.0\ref\TernarySearch.dll
