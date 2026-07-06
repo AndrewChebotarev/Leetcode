@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\ReservoirSampling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3D76C-2B1A-41F3-B621-96D49B392078}|ReservoirSampling\\ReservoirSampling.csproj|c:\\myfiles\\programming\\leetcode\\searching\\reservoirsampling\\reservoirsampling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3D76C-2B1A-41F3-B621-96D49B392078}|ReservoirSampling\\ReservoirSampling.csproj|solutionrelative:reservoirsampling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3D76C-2B1A-41F3-B621-96D49B392078}|ReservoirSampling\\ReservoirSampling.csproj|c:\\myfiles\\programming\\leetcode\\searching\\reservoirsampling\\reservoirsampling\\reservoirsamplingk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3D76C-2B1A-41F3-B621-96D49B392078}|ReservoirSampling\\ReservoirSampling.csproj|solutionrelative:reservoirsampling\\reservoirsamplingk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3D76C-2B1A-41F3-B621-96D49B392078}|ReservoirSampling\\ReservoirSampling.csproj|c:\\myfiles\\programming\\leetcode\\searching\\reservoirsampling\\reservoirsampling\\reservoirsampling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3D76C-2B1A-41F3-B621-96D49B392078}|ReservoirSampling\\ReservoirSampling.csproj|solutionrelative:reservoirsampling\\reservoirsampling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservoirSamplingK.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\ReservoirSampling\\ReservoirSampling\\ReservoirSamplingK.cs",
+              "RelativeDocumentMoniker": "ReservoirSampling\\ReservoirSamplingK.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\ReservoirSampling\\ReservoirSampling\\ReservoirSamplingK.cs",
+              "RelativeToolTip": "ReservoirSampling\\ReservoirSamplingK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T17:16:28.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservoirSampling.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\ReservoirSampling\\ReservoirSampling\\ReservoirSampling.cs",
+              "RelativeDocumentMoniker": "ReservoirSampling\\ReservoirSampling.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\ReservoirSampling\\ReservoirSampling\\ReservoirSampling.cs",
+              "RelativeToolTip": "ReservoirSampling\\ReservoirSampling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T17:15:08.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\ReservoirSampling\\ReservoirSampling\\Program.cs",
+              "RelativeDocumentMoniker": "ReservoirSampling\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\Searching\\ReservoirSampling\\ReservoirSampling\\Program.cs",
+              "RelativeToolTip": "ReservoirSampling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T17:14:53.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
