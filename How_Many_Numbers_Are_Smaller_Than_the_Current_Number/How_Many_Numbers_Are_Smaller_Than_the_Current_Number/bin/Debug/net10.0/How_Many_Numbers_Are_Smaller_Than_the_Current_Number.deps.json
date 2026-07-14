@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "How_Many_Numbers_Are_Smaller_Than_the_Current_Number/1.0.0": {
+        "runtime": {
+          "How_Many_Numbers_Are_Smaller_Than_the_Current_Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How_Many_Numbers_Are_Smaller_Than_the_Current_Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

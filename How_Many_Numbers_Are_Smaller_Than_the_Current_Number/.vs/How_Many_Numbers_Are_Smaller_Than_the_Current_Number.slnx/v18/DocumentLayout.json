@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFiles\\Programming\\Leetcode\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2CA768-26D8-4B20-8AD8-AFFEA345B0D1}|How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number.csproj|c:\\myfiles\\programming\\leetcode\\how_many_numbers_are_smaller_than_the_current_number\\how_many_numbers_are_smaller_than_the_current_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2CA768-26D8-4B20-8AD8-AFFEA345B0D1}|How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number.csproj|solutionrelative:how_many_numbers_are_smaller_than_the_current_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2CA768-26D8-4B20-8AD8-AFFEA345B0D1}|How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number.csproj|c:\\myfiles\\programming\\leetcode\\how_many_numbers_are_smaller_than_the_current_number\\how_many_numbers_are_smaller_than_the_current_number\\how_many_numbers_are_smaller_than_the_current_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2CA768-26D8-4B20-8AD8-AFFEA345B0D1}|How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number.csproj|solutionrelative:how_many_numbers_are_smaller_than_the_current_number\\how_many_numbers_are_smaller_than_the_current_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cs",
+              "RelativeDocumentMoniker": "How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cs",
+              "RelativeToolTip": "How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:59:48.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFiles\\Programming\\Leetcode\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\Program.cs",
+              "RelativeDocumentMoniker": "How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\Program.cs",
+              "ToolTip": "C:\\MyFiles\\Programming\\Leetcode\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\Program.cs",
+              "RelativeToolTip": "How_Many_Numbers_Are_Smaller_Than_the_Current_Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:59:26.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
