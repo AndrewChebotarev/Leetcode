@@ -1,0 +1,15 @@
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\bin\Debug\net10.0\BFS.exe
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\bin\Debug\net10.0\BFS.deps.json
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\bin\Debug\net10.0\BFS.runtimeconfig.json
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\bin\Debug\net10.0\BFS.dll
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\bin\Debug\net10.0\BFS.pdb
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\BFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\BFS.AssemblyInfoInputs.cache
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\BFS.AssemblyInfo.cs
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\BFS.csproj.CoreCompileInputs.cache
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\BFS.sourcelink.json
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\BFS.dll
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\refint\BFS.dll
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\BFS.pdb
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\BFS.genruntimeconfig.cache
+C:\MyFiles\Programming\Leetcode\Searching\BFS\BFS\obj\Debug\net10.0\ref\BFS.dll
